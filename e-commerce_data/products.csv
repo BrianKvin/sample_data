@@ -1,0 +1,1501 @@
+product_id,product_name,brand,category,price,sku,supplier_id
+1,Sony Action Figure Set,Sony,Toys,98.93,PECN0DL5,71
+2,Hanes Non-Stick Cookware Set,Hanes,Home & Kitchen,39.16,UVFMH07W,227
+3,Great Value Whole Milk 1 Gallon,Great Value,Grocery,3.66,E0MP2IXI,146
+4,Samsung 1000-Piece Puzzle,Samsung,Toys,28.49,VGOX22IN,124
+5,Loreal 12-Speed Blender,Loreal,Home & Kitchen,167.92,997E4UNY,242
+6,"Samsung 55"" 4K Smart TV",Samsung,Electronics,119.31,H78OKZ1P,206
+7,Adidas Wireless Headphones,Adidas,Electronics,488.45,LSH3TOW4,34
+8,Procter & Gamble Women's Slim Jeans,Procter & Gamble,Clothing,21.0,DPQVL00E,71
+9,Samsung Classic Board Game,Samsung,Toys,54.68,MS3JN050,61
+10,"Sony Laptop 15""",Sony,Electronics,480.77,CZUCQMRU,189
+11,Maybelline Whole Milk 1 Gallon,Maybelline,Grocery,17.99,YE0A4ABN,77
+12,Apple Cereal Box 18oz,Apple,Grocery,5.27,I6L3UEYB,115
+13,Apple Moisturizing Lotion,Apple,Health & Beauty,8.1,QK4LTAHU,156
+14,Loreal Classic Board Game,Loreal,Toys,51.75,VR1H61IA,210
+15,KitchenAid Smartphone 128GB,KitchenAid,Electronics,990.32,YAM1N0LH,122
+16,LG 12-Speed Blender,LG,Home & Kitchen,292.32,FKBI4O6Q,44
+17,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,33.67,OVCXEK47,202
+18,Sony 1000-Piece Puzzle,Sony,Toys,50.75,I7E1DDQL,62
+19,Pepsi Matte Lipstick,Pepsi,Health & Beauty,25.34,Q4D3KZVH,168
+20,Great Value 12-Pack Soda,Great Value,Grocery,19.4,OBK3G84U,282
+21,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,2.94,2EC2IHOY,44
+22,IKEA Fluoride Toothpaste,IKEA,Health & Beauty,46.28,C9HX3D43,63
+23,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,335.18,U3OBYGHG,144
+24,Hanes 12-Speed Blender,Hanes,Home & Kitchen,191.95,WXR5RDNP,270
+25,Adidas Whole Milk 1 Gallon,Adidas,Grocery,19.8,2MTR6SNG,164
+26,KitchenAid Daily Shampoo 12oz,KitchenAid,Health & Beauty,45.31,2C9T199D,124
+27,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,155.17,8U9N79GI,163
+28,Pepsi Action Figure Set,Pepsi,Toys,73.31,MUF8438T,90
+29,Apple 12-Speed Blender,Apple,Home & Kitchen,35.73,VARLW3MG,166
+30,Samsung Wireless Headphones,Samsung,Electronics,921.25,71448N7O,52
+31,Mattel Cotton T-Shirt,Mattel,Clothing,35.93,F828XG8Y,183
+32,IKEA 12-Pack Soda,IKEA,Grocery,8.19,0KGAZU41,291
+33,Nike Smartphone 128GB,Nike,Electronics,1389.45,8HU7F0I9,86
+34,Great Value 1000-Piece Puzzle,Great Value,Toys,50.2,JICJDAN0,86
+35,LG Upright Vacuum,LG,Home & Kitchen,118.34,N32U1IQ2,18
+36,Samsung Cotton T-Shirt,Samsung,Clothing,59.61,DM5FC79M,248
+37,Samsung Fashion Doll,Samsung,Toys,94.82,F6FDHGZZ,277
+38,Mattel Cotton T-Shirt,Mattel,Clothing,55.13,BU4FMPKX,246
+39,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,4.93,W9RE2Q6J,279
+40,Nike Bath Towel Set,Nike,Home & Kitchen,267.94,NQJQIJC1,50
+41,"Pepsi Laptop 15""",Pepsi,Electronics,1458.99,VT43PT5R,121
+42,Mattel 12-Speed Blender,Mattel,Home & Kitchen,130.55,4BUSU9F8,230
+43,Nike 12-Pack Soda,Nike,Grocery,16.36,EP9P9W4J,35
+44,"Old Navy Laptop 15""",Old Navy,Electronics,872.88,4S7AZV2E,77
+45,IKEA Whole Milk 1 Gallon,IKEA,Grocery,18.57,UDKTMONR,243
+46,Nike Smartphone 128GB,Nike,Electronics,664.16,WYOO5YBR,138
+47,Samsung Cotton T-Shirt,Samsung,Clothing,165.3,KKRZD5E9,227
+48,Maybelline Running Shoes,Maybelline,Clothing,124.95,DP6ORSNC,82
+49,"Mattel Laptop 15""",Mattel,Electronics,289.91,45BG34IQ,185
+50,Levis 1000-Piece Puzzle,Levis,Toys,43.15,QO7YIRQ8,243
+51,Adidas Fluoride Toothpaste,Adidas,Health & Beauty,20.49,4J3DAB42,110
+52,KitchenAid 12-Pack Soda,KitchenAid,Grocery,6.11,OA21A6XV,5
+53,Maybelline Sliced Bread 20oz,Maybelline,Grocery,14.54,ZJ64QHKS,204
+54,Coca-Cola Daily Shampoo 12oz,Coca-Cola,Health & Beauty,28.02,X4NXVKDC,142
+55,Sony 1000-Piece Puzzle,Sony,Toys,33.5,Z6KF1622,207
+56,Sony Classic Board Game,Sony,Toys,74.92,X9JPNBZU,98
+57,KitchenAid Running Shoes,KitchenAid,Clothing,182.24,YS445GDE,133
+58,Adidas Classic Board Game,Adidas,Toys,95.22,6XII5P5N,300
+59,Hasbro Men's Crew Socks 10-Pack,Hasbro,Clothing,99.4,5V7C6S5N,153
+60,Apple Non-Stick Cookware Set,Apple,Home & Kitchen,58.46,HOU6QLZ2,250
+61,Nike Cotton T-Shirt,Nike,Clothing,130.55,AJ1G1R1D,223
+62,Procter & Gamble Fashion Doll,Procter & Gamble,Toys,48.61,RAT0861T,10
+63,Samsung Classic Board Game,Samsung,Toys,30.36,5LDSLCB8,234
+64,Kelloggs 1000-Piece Puzzle,Kelloggs,Toys,49.03,YE9R1F63,10
+65,KitchenAid 12-Pack Soda,KitchenAid,Grocery,5.01,ASEZ2NX1,25
+66,Apple Daily Shampoo 12oz,Apple,Health & Beauty,34.41,AYPNTRFZ,5
+67,Procter & Gamble Men's Crew Socks 10-Pack,Procter & Gamble,Clothing,135.87,JVE3DZEE,55
+68,Levis Non-Stick Cookware Set,Levis,Home & Kitchen,237.83,39MOFT6Y,247
+69,KitchenAid Men's Crew Socks 10-Pack,KitchenAid,Clothing,12.42,DDUR82C0,132
+70,KitchenAid Fashion Doll,KitchenAid,Toys,98.98,KQDGBK2L,60
+71,"Apple 55"" 4K Smart TV",Apple,Electronics,1292.8,XGMPW5D3,94
+72,"Old Navy Laptop 15""",Old Navy,Electronics,1447.23,JN42X2EZ,31
+73,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,18.31,RUPW2W55,67
+74,LG 12-Speed Blender,LG,Home & Kitchen,268.53,PCXA5S00,115
+75,Sony Action Figure Set,Sony,Toys,48.96,0RXXF36W,6
+76,Nike Fashion Doll,Nike,Toys,86.67,5CRI8BIX,207
+77,Great Value Cereal Box 18oz,Great Value,Grocery,9.44,UDRL90AO,19
+78,Adidas Daily Shampoo 12oz,Adidas,Health & Beauty,42.17,28W6UXQM,28
+79,Hasbro Sliced Bread 20oz,Hasbro,Grocery,11.64,WRXZE1HM,150
+80,Kelloggs Fluoride Toothpaste,Kelloggs,Health & Beauty,36.59,BFFZZDVG,202
+81,Hasbro 12-Pack Soda,Hasbro,Grocery,14.62,DO74V1QX,259
+82,LG Whole Milk 1 Gallon,LG,Grocery,11.08,B74RS7GU,66
+83,Old Navy Smartphone 128GB,Old Navy,Electronics,805.75,N961J88Q,69
+84,Procter & Gamble Sliced Bread 20oz,Procter & Gamble,Grocery,17.02,TL0THHZY,68
+85,Nike 1000-Piece Puzzle,Nike,Toys,73.93,1UU7ZY6T,217
+86,"Kelloggs 55"" 4K Smart TV",Kelloggs,Electronics,135.38,FYH1FKJ4,152
+87,Adidas Whole Milk 1 Gallon,Adidas,Grocery,7.81,QWYUIXNS,148
+88,Apple Fashion Doll,Apple,Toys,44.88,89LTAJW2,227
+89,Pepsi 12-Pack Soda,Pepsi,Grocery,15.75,8KGYGGSN,220
+90,Adidas Cotton T-Shirt,Adidas,Clothing,34.71,VJLZFFLB,155
+91,IKEA Bath Towel Set,IKEA,Home & Kitchen,40.41,ZS8S2FTO,179
+92,Levis Sliced Bread 20oz,Levis,Grocery,7.29,K8WRU1XE,178
+93,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,288.49,YL68NTK6,192
+94,Kelloggs Moisturizing Lotion,Kelloggs,Health & Beauty,26.91,KXLCD81T,34
+95,Levis Cereal Box 18oz,Levis,Grocery,16.88,H350P3CY,13
+96,Sony 12-Speed Blender,Sony,Home & Kitchen,44.51,B2UUIJNW,222
+97,Samsung Running Shoes,Samsung,Clothing,137.93,TXW1VZC7,55
+98,Mattel Men's Crew Socks 10-Pack,Mattel,Clothing,63.49,7N3BFH02,280
+99,Hanes Cotton T-Shirt,Hanes,Clothing,138.68,620N8TTE,3
+100,Loreal Moisturizing Lotion,Loreal,Health & Beauty,29.17,8K06MOXS,83
+101,KitchenAid Sliced Bread 20oz,KitchenAid,Grocery,4.69,G24479QT,149
+102,Great Value 1000-Piece Puzzle,Great Value,Toys,18.84,0RLEXDW6,163
+103,Hasbro Bath Towel Set,Hasbro,Home & Kitchen,192.58,LVUNLPAI,114
+104,Procter & Gamble 1000-Piece Puzzle,Procter & Gamble,Toys,85.61,E05QMKTG,42
+105,Hanes Women's Slim Jeans,Hanes,Clothing,60.01,5CCASBUO,109
+106,Adidas Smartphone 128GB,Adidas,Electronics,860.86,9Q1NI10K,238
+107,Kelloggs Daily Shampoo 12oz,Kelloggs,Health & Beauty,22.86,SX43WFSQ,92
+108,IKEA Matte Lipstick,IKEA,Health & Beauty,38.12,RMHRCNBH,185
+109,LG Upright Vacuum,LG,Home & Kitchen,266.83,BXD8WJ0U,292
+110,Old Navy Cereal Box 18oz,Old Navy,Grocery,7.94,X4SN6SM5,250
+111,Loreal 12-Speed Blender,Loreal,Home & Kitchen,160.51,FFCXHGNZ,61
+112,KitchenAid Fashion Doll,KitchenAid,Toys,83.01,ZRRHF4AB,294
+113,Nike Matte Lipstick,Nike,Health & Beauty,33.33,BUCJG8VU,10
+114,Mattel Action Figure Set,Mattel,Toys,29.49,VQRHOFU1,262
+115,Nike Cotton T-Shirt,Nike,Clothing,185.25,VCNEAS6Y,77
+116,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,26.41,WB2SEREV,1
+117,Procter & Gamble Fashion Doll,Procter & Gamble,Toys,43.33,BTI22NV0,295
+118,Procter & Gamble Wireless Headphones,Procter & Gamble,Electronics,456.33,16DVTJA0,4
+119,Kelloggs Daily Shampoo 12oz,Kelloggs,Health & Beauty,28.39,NH2ODPVJ,275
+120,IKEA Bath Towel Set,IKEA,Home & Kitchen,191.33,9OHTUGUR,158
+121,Pepsi Moisturizing Lotion,Pepsi,Health & Beauty,38.11,4X0QZFHO,174
+122,Loreal Daily Shampoo 12oz,Loreal,Health & Beauty,12.23,8ADF7PCH,41
+123,Apple Moisturizing Lotion,Apple,Health & Beauty,46.88,OXK8C1GR,6
+124,Kelloggs Sliced Bread 20oz,Kelloggs,Grocery,4.7,2SZWYMX9,45
+125,Old Navy Cotton T-Shirt,Old Navy,Clothing,137.24,OHAZ7T0U,299
+126,Pepsi Cotton T-Shirt,Pepsi,Clothing,53.0,8QOAGSUS,175
+127,Kelloggs Smartphone 128GB,Kelloggs,Electronics,1326.56,3UY8U118,235
+128,Hasbro Action Figure Set,Hasbro,Toys,53.38,JN2HZ2OM,275
+129,Maybelline Wireless Headphones,Maybelline,Electronics,502.21,O0MTGLHU,94
+130,Levis Fashion Doll,Levis,Toys,76.34,IIJI44M2,62
+131,"LG 55"" 4K Smart TV",LG,Electronics,1169.94,TBRWR965,252
+132,Kelloggs Sliced Bread 20oz,Kelloggs,Grocery,8.56,1ESP7BM4,90
+133,Coca-Cola Upright Vacuum,Coca-Cola,Home & Kitchen,108.38,AYNDN5GJ,138
+134,Loreal Bath Towel Set,Loreal,Home & Kitchen,122.46,RHZN4KGE,295
+135,KitchenAid Action Figure Set,KitchenAid,Toys,74.87,2T4H20RA,216
+136,Hanes Bath Towel Set,Hanes,Home & Kitchen,239.89,KUUOYC3R,50
+137,Sony Bath Towel Set,Sony,Home & Kitchen,121.07,U7JAE58H,295
+138,Adidas Classic Board Game,Adidas,Toys,98.14,KLS1QCWQ,75
+139,Sony Cereal Box 18oz,Sony,Grocery,12.99,U4CFILKJ,203
+140,Hasbro Cotton T-Shirt,Hasbro,Clothing,152.1,SQG4EIJ0,41
+141,Nike Cereal Box 18oz,Nike,Grocery,2.96,C5TAO1CJ,80
+142,Old Navy Smartphone 128GB,Old Navy,Electronics,421.1,0PESGBM6,244
+143,Adidas Bath Towel Set,Adidas,Home & Kitchen,173.59,E8TVQ05P,274
+144,Pepsi Running Shoes,Pepsi,Clothing,112.54,2PNJKA34,177
+145,LG Men's Crew Socks 10-Pack,LG,Clothing,140.68,R1K12V2T,97
+146,Adidas Upright Vacuum,Adidas,Home & Kitchen,130.53,F0ONJPI1,140
+147,Adidas Cotton T-Shirt,Adidas,Clothing,88.45,4GKWWJWG,10
+148,Apple Whole Milk 1 Gallon,Apple,Grocery,4.53,DJZ0IFRM,160
+149,Pepsi Upright Vacuum,Pepsi,Home & Kitchen,215.14,BC1FJOTG,129
+150,Samsung 12-Speed Blender,Samsung,Home & Kitchen,292.89,ZN9I9H0D,107
+151,Old Navy Bath Towel Set,Old Navy,Home & Kitchen,282.14,F00TERKM,27
+152,Levis Action Figure Set,Levis,Toys,31.24,PA2VOI8U,244
+153,Loreal Classic Board Game,Loreal,Toys,43.43,DFDW79WC,79
+154,Adidas Action Figure Set,Adidas,Toys,21.32,I9212PGY,184
+155,Hanes 1000-Piece Puzzle,Hanes,Toys,90.88,RPKZGGM0,141
+156,Adidas Matte Lipstick,Adidas,Health & Beauty,8.1,FKJNAWNG,10
+157,Pepsi Matte Lipstick,Pepsi,Health & Beauty,19.43,C83GY1FK,210
+158,Sony Action Figure Set,Sony,Toys,18.66,XB7GBDGB,199
+159,LG 1000-Piece Puzzle,LG,Toys,14.42,HZA7X73Q,32
+160,Adidas Running Shoes,Adidas,Clothing,166.19,2CWT04CH,266
+161,Coca-Cola Wireless Headphones,Coca-Cola,Electronics,844.33,GSIWG0OD,296
+162,Hasbro Running Shoes,Hasbro,Clothing,177.74,GGOMF9PM,162
+163,Sony Fluoride Toothpaste,Sony,Health & Beauty,23.56,W3LITNT0,185
+164,Hasbro Upright Vacuum,Hasbro,Home & Kitchen,20.05,BKAE6A9H,162
+165,Maybelline Wireless Headphones,Maybelline,Electronics,232.0,QFJ6IJKU,292
+166,Great Value Sliced Bread 20oz,Great Value,Grocery,16.07,G3YU6VK0,296
+167,Great Value 12-Speed Blender,Great Value,Home & Kitchen,278.12,M5P7E104,6
+168,Old Navy Action Figure Set,Old Navy,Toys,37.43,BTFSHB0O,229
+169,IKEA Daily Shampoo 12oz,IKEA,Health & Beauty,14.99,KOECUBOD,257
+170,Hanes Non-Stick Cookware Set,Hanes,Home & Kitchen,154.66,HOUU9SIJ,221
+171,IKEA Men's Crew Socks 10-Pack,IKEA,Clothing,31.38,ONGMX1GM,227
+172,Hanes Moisturizing Lotion,Hanes,Health & Beauty,7.02,3HN14EB8,76
+173,Samsung Cotton T-Shirt,Samsung,Clothing,141.82,EQAHTHSJ,248
+174,Hanes Daily Shampoo 12oz,Hanes,Health & Beauty,21.95,6SJCHZJQ,5
+175,Old Navy Smartphone 128GB,Old Navy,Electronics,1028.17,6MDK5N9S,51
+176,LG Men's Crew Socks 10-Pack,LG,Clothing,45.42,SQ7AITMO,81
+177,Pepsi Smartphone 128GB,Pepsi,Electronics,597.53,K99JCJN9,16
+178,Maybelline Matte Lipstick,Maybelline,Health & Beauty,11.83,6XDN8WWI,124
+179,Hanes Moisturizing Lotion,Hanes,Health & Beauty,48.67,6LTHET25,159
+180,Kelloggs Classic Board Game,Kelloggs,Toys,48.71,61XUFCTZ,95
+181,Hanes Men's Crew Socks 10-Pack,Hanes,Clothing,155.43,5OOP767J,97
+182,Hanes Wireless Headphones,Hanes,Electronics,136.68,9WVWVIAC,245
+183,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,14.53,N4REGB1A,139
+184,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,232.18,C795RLQI,208
+185,"Loreal Laptop 15""",Loreal,Electronics,1108.28,O7UTXZBD,234
+186,"KitchenAid Laptop 15""",KitchenAid,Electronics,1477.36,BN18GP51,147
+187,Nike Upright Vacuum,Nike,Home & Kitchen,102.44,7Y6QXDSG,300
+188,Adidas Classic Board Game,Adidas,Toys,45.38,LAQ665DL,84
+189,Coca-Cola Action Figure Set,Coca-Cola,Toys,20.27,QNSN2S8N,195
+190,Nike Smartphone 128GB,Nike,Electronics,891.69,XF5GZPL1,229
+191,Nike Men's Crew Socks 10-Pack,Nike,Clothing,180.72,8A1ARR3V,253
+192,Levis Cereal Box 18oz,Levis,Grocery,9.62,PVA5KW3H,95
+193,Apple Sliced Bread 20oz,Apple,Grocery,1.7,4Y4K7BPG,146
+194,Loreal Matte Lipstick,Loreal,Health & Beauty,48.48,0MB1L631,282
+195,"Mattel Laptop 15""",Mattel,Electronics,288.36,ZJSSZWD0,271
+196,LG Smartphone 128GB,LG,Electronics,697.88,4JUW7WR0,255
+197,Nike Non-Stick Cookware Set,Nike,Home & Kitchen,218.4,9AAWE429,212
+198,Sony Smartphone 128GB,Sony,Electronics,884.58,WAHK2LSL,4
+199,Sony Smartphone 128GB,Sony,Electronics,654.47,U83G47RR,19
+200,Hanes Fashion Doll,Hanes,Toys,23.98,Q56Q37CS,290
+201,Sony Action Figure Set,Sony,Toys,28.74,Y25M8KB9,274
+202,IKEA Cereal Box 18oz,IKEA,Grocery,4.56,E2L4ZJD5,191
+203,Mattel Non-Stick Cookware Set,Mattel,Home & Kitchen,167.03,GNBHDS26,79
+204,Sony Cereal Box 18oz,Sony,Grocery,14.92,S1F537YE,19
+205,Old Navy 12-Speed Blender,Old Navy,Home & Kitchen,21.15,7YVDQBSX,160
+206,IKEA Smartphone 128GB,IKEA,Electronics,994.39,HHKT1YJF,59
+207,"Loreal 55"" 4K Smart TV",Loreal,Electronics,389.21,MLFZKICW,174
+208,Hasbro Daily Shampoo 12oz,Hasbro,Health & Beauty,10.85,QYDBPGVV,229
+209,Pepsi Fluoride Toothpaste,Pepsi,Health & Beauty,19.95,H13C71UD,240
+210,Hasbro Smartphone 128GB,Hasbro,Electronics,1058.27,ZQII4W6O,170
+211,Hasbro Running Shoes,Hasbro,Clothing,15.75,RMQG1VED,55
+212,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,160.56,TOOWT9NM,221
+213,IKEA Bath Towel Set,IKEA,Home & Kitchen,172.47,IXC7URVQ,285
+214,Hasbro Wireless Headphones,Hasbro,Electronics,531.25,OVYV3LXC,112
+215,IKEA Whole Milk 1 Gallon,IKEA,Grocery,15.38,XQKWQH5K,156
+216,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,183.16,WS44C68A,287
+217,Coca-Cola Cotton T-Shirt,Coca-Cola,Clothing,174.48,IZOLNNTX,244
+218,Levis Cereal Box 18oz,Levis,Grocery,17.02,MPK5EAXF,250
+219,Procter & Gamble Classic Board Game,Procter & Gamble,Toys,17.62,XOQ2VPGS,283
+220,Old Navy Bath Towel Set,Old Navy,Home & Kitchen,83.21,PAR0ZJ7U,18
+221,"IKEA Laptop 15""",IKEA,Electronics,1086.84,ERYF0992,239
+222,Great Value Daily Shampoo 12oz,Great Value,Health & Beauty,16.04,WXYYTUW6,274
+223,"LG Laptop 15""",LG,Electronics,817.73,Q0P82KB7,156
+224,IKEA 1000-Piece Puzzle,IKEA,Toys,15.53,RGB93WKC,259
+225,Maybelline Smartphone 128GB,Maybelline,Electronics,285.55,K4AEGVFQ,90
+226,KitchenAid Running Shoes,KitchenAid,Clothing,44.35,SB98V341,212
+227,KitchenAid Upright Vacuum,KitchenAid,Home & Kitchen,223.28,GU4BJ3BQ,244
+228,LG Women's Slim Jeans,LG,Clothing,82.16,ZRF5A7QY,272
+229,Apple Action Figure Set,Apple,Toys,92.59,W8P74MJD,300
+230,Hasbro Non-Stick Cookware Set,Hasbro,Home & Kitchen,225.61,VHMYGTY3,7
+231,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,211.94,M0JBWCV6,112
+232,Coca-Cola Daily Shampoo 12oz,Coca-Cola,Health & Beauty,8.89,VN1X2GDG,151
+233,Great Value Upright Vacuum,Great Value,Home & Kitchen,278.35,JP61LFC1,196
+234,Sony 12-Speed Blender,Sony,Home & Kitchen,92.31,3GC9HOXD,277
+235,Levis 12-Speed Blender,Levis,Home & Kitchen,275.53,ZDCUJQ6F,1
+236,Old Navy Smartphone 128GB,Old Navy,Electronics,312.25,LOAZ1RO0,36
+237,KitchenAid Daily Shampoo 12oz,KitchenAid,Health & Beauty,22.3,Y2ET9MKB,47
+238,Adidas Cotton T-Shirt,Adidas,Clothing,25.29,Q1XGBNGZ,55
+239,Pepsi Fashion Doll,Pepsi,Toys,17.64,W0FGZVRC,277
+240,Mattel Fashion Doll,Mattel,Toys,58.05,4Q9BC2BE,268
+241,Adidas Non-Stick Cookware Set,Adidas,Home & Kitchen,227.49,IC0RA6WI,67
+242,"Nike 55"" 4K Smart TV",Nike,Electronics,1366.53,3DW4C3EV,113
+243,"Levis Laptop 15""",Levis,Electronics,572.28,40OEYTL8,110
+244,IKEA Wireless Headphones,IKEA,Electronics,569.71,EFOZTP7B,52
+245,Loreal Fashion Doll,Loreal,Toys,79.99,ARAGDX5O,244
+246,Hanes Classic Board Game,Hanes,Toys,22.88,JQIGYVZW,46
+247,Mattel 1000-Piece Puzzle,Mattel,Toys,47.69,UG99W59S,238
+248,Levis 1000-Piece Puzzle,Levis,Toys,14.78,EF46RF7B,187
+249,Levis Running Shoes,Levis,Clothing,57.76,W6QDBTFB,264
+250,Great Value Wireless Headphones,Great Value,Electronics,1109.96,VLHYL2LD,212
+251,Old Navy 12-Pack Soda,Old Navy,Grocery,2.4,VBPHVGNQ,100
+252,Pepsi 1000-Piece Puzzle,Pepsi,Toys,28.2,EYCE4QGM,152
+253,Nike Matte Lipstick,Nike,Health & Beauty,31.02,TIOS5HRQ,8
+254,Procter & Gamble Classic Board Game,Procter & Gamble,Toys,32.3,PI7866PB,241
+255,Kelloggs Action Figure Set,Kelloggs,Toys,48.31,O3ZDRC1Y,209
+256,Hanes Sliced Bread 20oz,Hanes,Grocery,6.62,XDRKZ40A,233
+257,Hanes Upright Vacuum,Hanes,Home & Kitchen,71.78,5WZAWNYT,152
+258,Maybelline Non-Stick Cookware Set,Maybelline,Home & Kitchen,240.55,C50B8Y5D,188
+259,Loreal 12-Speed Blender,Loreal,Home & Kitchen,122.36,GUCZH9IE,245
+260,IKEA Classic Board Game,IKEA,Toys,77.79,1L6SPBNQ,257
+261,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,36.94,YTKW2837,34
+262,Hasbro Whole Milk 1 Gallon,Hasbro,Grocery,2.52,6K8DJZR5,267
+263,Samsung 1000-Piece Puzzle,Samsung,Toys,47.49,Y7RP0AGA,119
+264,Sony Moisturizing Lotion,Sony,Health & Beauty,31.04,X2RXTTQU,157
+265,Maybelline 12-Pack Soda,Maybelline,Grocery,10.2,81BMQF7Z,147
+266,Nike 12-Pack Soda,Nike,Grocery,4.06,E9UPNHZX,177
+267,Pepsi Cereal Box 18oz,Pepsi,Grocery,11.26,FK7ORFQL,3
+268,Adidas 1000-Piece Puzzle,Adidas,Toys,68.25,K6819Y20,227
+269,Coca-Cola Running Shoes,Coca-Cola,Clothing,181.03,FTLO4QDB,100
+270,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,40.16,1HD4Y89O,252
+271,Loreal Men's Crew Socks 10-Pack,Loreal,Clothing,182.6,MF4NNKM9,288
+272,"Levis Laptop 15""",Levis,Electronics,1138.14,OPF060O4,45
+273,Levis Sliced Bread 20oz,Levis,Grocery,10.02,59C81DO6,213
+274,Adidas Cereal Box 18oz,Adidas,Grocery,14.49,1EGNTB34,156
+275,Adidas Upright Vacuum,Adidas,Home & Kitchen,82.87,2FKXWEXK,92
+276,KitchenAid 12-Speed Blender,KitchenAid,Home & Kitchen,53.42,J9C0UU5W,244
+277,Coca-Cola 1000-Piece Puzzle,Coca-Cola,Toys,56.13,U4FCL5EF,140
+278,Procter & Gamble Cotton T-Shirt,Procter & Gamble,Clothing,19.26,KXCGW1VG,166
+279,Mattel Cotton T-Shirt,Mattel,Clothing,140.23,YDU3ASNR,175
+280,Coca-Cola 12-Pack Soda,Coca-Cola,Grocery,3.94,HG6W3STT,59
+281,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,52.64,EAMYFP9S,176
+282,Mattel Whole Milk 1 Gallon,Mattel,Grocery,15.14,EEYYLH9P,58
+283,"Samsung Laptop 15""",Samsung,Electronics,1160.27,BD2SCEJC,6
+284,Coca-Cola Wireless Headphones,Coca-Cola,Electronics,922.64,HYBF0JUM,257
+285,Loreal Classic Board Game,Loreal,Toys,55.44,C31TZ8G1,3
+286,Coca-Cola Classic Board Game,Coca-Cola,Toys,92.84,4RZGYD49,218
+287,Kelloggs 12-Pack Soda,Kelloggs,Grocery,8.74,1LQSRNKZ,43
+288,LG Men's Crew Socks 10-Pack,LG,Clothing,83.11,Q0Y4IO9P,36
+289,Pepsi Non-Stick Cookware Set,Pepsi,Home & Kitchen,23.58,YYOSYEOZ,53
+290,Nike Action Figure Set,Nike,Toys,42.73,HH4OIPR1,298
+291,Maybelline Moisturizing Lotion,Maybelline,Health & Beauty,21.02,Y89SFQER,119
+292,Hanes Action Figure Set,Hanes,Toys,18.96,BCY8NYFW,50
+293,"Kelloggs Laptop 15""",Kelloggs,Electronics,1209.82,HXRJM4T8,17
+294,Coca-Cola Upright Vacuum,Coca-Cola,Home & Kitchen,146.03,4PBGX25F,221
+295,Mattel Cereal Box 18oz,Mattel,Grocery,10.26,DYXYUR4S,201
+296,LG Running Shoes,LG,Clothing,127.22,M9LBB4M0,14
+297,Sony Fashion Doll,Sony,Toys,18.76,MMMXIXV6,34
+298,Coca-Cola Cotton T-Shirt,Coca-Cola,Clothing,42.26,TBXPSPAQ,12
+299,Old Navy Running Shoes,Old Navy,Clothing,71.26,DRYHR3YF,154
+300,Procter & Gamble Women's Slim Jeans,Procter & Gamble,Clothing,104.42,424TKB9O,116
+301,Great Value Daily Shampoo 12oz,Great Value,Health & Beauty,31.63,JUTPMC3S,154
+302,Adidas Bath Towel Set,Adidas,Home & Kitchen,76.02,OWQ1GAZ5,296
+303,Levis Upright Vacuum,Levis,Home & Kitchen,95.02,W34670CH,237
+304,KitchenAid 12-Pack Soda,KitchenAid,Grocery,15.18,14O46W4J,147
+305,Nike 1000-Piece Puzzle,Nike,Toys,71.82,IIFA2LR9,217
+306,Apple Classic Board Game,Apple,Toys,24.34,EJ2XG48R,11
+307,Great Value Smartphone 128GB,Great Value,Electronics,942.24,56ONXD70,72
+308,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,10.92,387J5IE3,169
+309,Old Navy Matte Lipstick,Old Navy,Health & Beauty,47.1,HDHJO5CT,58
+310,Adidas Running Shoes,Adidas,Clothing,100.22,IJ2FRNLX,18
+311,Apple Classic Board Game,Apple,Toys,32.77,NXZ6YTIP,5
+312,Maybelline Bath Towel Set,Maybelline,Home & Kitchen,45.27,3IH66W51,209
+313,"Maybelline 55"" 4K Smart TV",Maybelline,Electronics,1252.48,7QO4Z533,134
+314,Great Value Fluoride Toothpaste,Great Value,Health & Beauty,23.94,0TLZ1XGP,70
+315,Old Navy Wireless Headphones,Old Navy,Electronics,979.61,LCFS8314,211
+316,Hasbro Running Shoes,Hasbro,Clothing,175.97,EGVLKDNO,194
+317,KitchenAid Daily Shampoo 12oz,KitchenAid,Health & Beauty,47.66,7XW69HZG,206
+318,Procter & Gamble Fluoride Toothpaste,Procter & Gamble,Health & Beauty,11.72,8GUAS173,254
+319,KitchenAid Wireless Headphones,KitchenAid,Electronics,366.76,52KRE4V9,145
+320,Levis Fashion Doll,Levis,Toys,26.23,2B9IQIUX,44
+321,LG Wireless Headphones,LG,Electronics,1320.02,9OHNPVCU,27
+322,KitchenAid Running Shoes,KitchenAid,Clothing,182.56,978V0BJW,155
+323,Pepsi Non-Stick Cookware Set,Pepsi,Home & Kitchen,291.06,UUJS75EL,272
+324,Hanes Bath Towel Set,Hanes,Home & Kitchen,52.72,BE5407K5,136
+325,Sony Moisturizing Lotion,Sony,Health & Beauty,45.17,L91F4X2B,77
+326,KitchenAid Wireless Headphones,KitchenAid,Electronics,150.21,JZP97BMZ,249
+327,LG 12-Speed Blender,LG,Home & Kitchen,256.83,5ED5GGSJ,300
+328,IKEA Whole Milk 1 Gallon,IKEA,Grocery,10.99,UOC1Y5AY,63
+329,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,254.35,FC3XQ8VA,23
+330,Loreal Fashion Doll,Loreal,Toys,39.24,008UHBXL,29
+331,Great Value Fashion Doll,Great Value,Toys,18.33,JI1OAHNO,79
+332,"Mattel Laptop 15""",Mattel,Electronics,1221.54,076VMDNH,229
+333,LG Bath Towel Set,LG,Home & Kitchen,177.66,P13WPPBM,238
+334,KitchenAid Classic Board Game,KitchenAid,Toys,93.76,SXDQC2K9,154
+335,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,6.61,BCBDPDXU,130
+336,Maybelline Men's Crew Socks 10-Pack,Maybelline,Clothing,156.04,A0Q24BOZ,161
+337,Hasbro Moisturizing Lotion,Hasbro,Health & Beauty,33.07,J85GG0V5,55
+338,Adidas 12-Speed Blender,Adidas,Home & Kitchen,21.64,EGRY58VR,185
+339,Old Navy 1000-Piece Puzzle,Old Navy,Toys,17.89,EG3ZGARF,124
+340,Adidas Non-Stick Cookware Set,Adidas,Home & Kitchen,44.11,1FPE60QR,11
+341,IKEA Non-Stick Cookware Set,IKEA,Home & Kitchen,76.37,U4BAWZ94,297
+342,Adidas Fluoride Toothpaste,Adidas,Health & Beauty,6.67,OS0765IC,10
+343,IKEA Bath Towel Set,IKEA,Home & Kitchen,174.91,JX6EWXQP,83
+344,Levis Running Shoes,Levis,Clothing,75.33,IH6MV4XE,151
+345,Old Navy Fashion Doll,Old Navy,Toys,84.98,Y0224WK0,248
+346,Nike 12-Pack Soda,Nike,Grocery,3.97,R27RIU9M,134
+347,Nike Women's Slim Jeans,Nike,Clothing,167.31,6BCPWEIJ,175
+348,Apple Cotton T-Shirt,Apple,Clothing,180.3,45VDB828,57
+349,"Loreal 55"" 4K Smart TV",Loreal,Electronics,1253.05,BDW56FKP,260
+350,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,201.19,ME4PO1I3,175
+351,Kelloggs Women's Slim Jeans,Kelloggs,Clothing,26.19,N1MXF1PI,220
+352,Procter & Gamble Upright Vacuum,Procter & Gamble,Home & Kitchen,286.52,SY7P1ZSC,174
+353,Old Navy Women's Slim Jeans,Old Navy,Clothing,92.47,OB7FU992,267
+354,Procter & Gamble Running Shoes,Procter & Gamble,Clothing,178.3,Z5ZLM36V,76
+355,Old Navy Fashion Doll,Old Navy,Toys,67.95,5WWPM3X1,155
+356,Apple Smartphone 128GB,Apple,Electronics,645.99,Z5STHSLM,82
+357,Samsung Smartphone 128GB,Samsung,Electronics,437.88,109DCNWM,25
+358,Coca-Cola Fashion Doll,Coca-Cola,Toys,36.82,0Q929U6W,274
+359,KitchenAid Fluoride Toothpaste,KitchenAid,Health & Beauty,18.46,Y3UFN0DS,99
+360,Hasbro Men's Crew Socks 10-Pack,Hasbro,Clothing,37.85,PODPEHCY,207
+361,Adidas Moisturizing Lotion,Adidas,Health & Beauty,44.24,VW9Y80PF,259
+362,LG Cereal Box 18oz,LG,Grocery,3.46,Z5EHR07N,61
+363,Procter & Gamble Daily Shampoo 12oz,Procter & Gamble,Health & Beauty,10.44,UBFN9KR2,73
+364,Procter & Gamble Daily Shampoo 12oz,Procter & Gamble,Health & Beauty,47.16,KKG0ATCB,247
+365,Mattel Moisturizing Lotion,Mattel,Health & Beauty,45.51,2RZV1SQQ,230
+366,Sony Whole Milk 1 Gallon,Sony,Grocery,16.2,XOIOT860,46
+367,Samsung Sliced Bread 20oz,Samsung,Grocery,11.66,EUGWUBUG,244
+368,Samsung Daily Shampoo 12oz,Samsung,Health & Beauty,34.62,T8JH34UD,274
+369,Sony Moisturizing Lotion,Sony,Health & Beauty,31.5,R7MGATND,51
+370,Nike Fluoride Toothpaste,Nike,Health & Beauty,11.48,JDLOGWLA,30
+371,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,70.81,OLN3EH1V,253
+372,Kelloggs Moisturizing Lotion,Kelloggs,Health & Beauty,47.72,JLTCBW6A,284
+373,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,39.33,XEUQ4S2F,277
+374,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,19.27,TB38WXGC,247
+375,Loreal Cotton T-Shirt,Loreal,Clothing,169.5,NMWVSB0U,154
+376,"Old Navy 55"" 4K Smart TV",Old Navy,Electronics,1262.7,095HS258,134
+377,Hasbro 1000-Piece Puzzle,Hasbro,Toys,32.13,9MQVAYXA,244
+378,Samsung Wireless Headphones,Samsung,Electronics,678.43,6Z1T2XCB,228
+379,Coca-Cola 1000-Piece Puzzle,Coca-Cola,Toys,97.48,NVN439EN,99
+380,Samsung Non-Stick Cookware Set,Samsung,Home & Kitchen,228.08,1YZG3W3H,253
+381,Apple Cotton T-Shirt,Apple,Clothing,103.64,ZVA9WDJS,88
+382,Levis Matte Lipstick,Levis,Health & Beauty,7.94,ECJUIS2G,12
+383,Adidas 1000-Piece Puzzle,Adidas,Toys,71.26,5APYX4L4,209
+384,Coca-Cola Running Shoes,Coca-Cola,Clothing,104.16,SBZB7TLO,172
+385,"IKEA 55"" 4K Smart TV",IKEA,Electronics,1486.37,IY87HLCW,15
+386,Procter & Gamble 12-Speed Blender,Procter & Gamble,Home & Kitchen,185.91,WMJDIMBM,122
+387,"Loreal Laptop 15""",Loreal,Electronics,1169.74,WUDCBL4C,66
+388,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,522.06,WCYUKND1,120
+389,Loreal Daily Shampoo 12oz,Loreal,Health & Beauty,25.4,QPWDXYAS,99
+390,"Coca-Cola 55"" 4K Smart TV",Coca-Cola,Electronics,933.25,C2GUWJP0,228
+391,KitchenAid 12-Pack Soda,KitchenAid,Grocery,16.14,CLP81L51,76
+392,Mattel Bath Towel Set,Mattel,Home & Kitchen,101.5,8SXFI3UB,177
+393,Levis 12-Pack Soda,Levis,Grocery,15.92,MYZ9VLU8,154
+394,Sony Non-Stick Cookware Set,Sony,Home & Kitchen,49.36,56R7WYQH,247
+395,Sony Fashion Doll,Sony,Toys,28.48,G9NCBEKG,300
+396,Apple Men's Crew Socks 10-Pack,Apple,Clothing,47.83,KHJG4IHG,135
+397,Samsung Wireless Headphones,Samsung,Electronics,630.49,2D7KI3X7,223
+398,Great Value Action Figure Set,Great Value,Toys,23.0,72GNNV9I,24
+399,IKEA Matte Lipstick,IKEA,Health & Beauty,43.45,KFIWKESV,251
+400,Great Value Cereal Box 18oz,Great Value,Grocery,16.03,WGN51NSG,192
+401,LG Moisturizing Lotion,LG,Health & Beauty,26.32,UW2XH6QI,112
+402,Procter & Gamble Running Shoes,Procter & Gamble,Clothing,118.56,7NTEDQMV,239
+403,Loreal Fluoride Toothpaste,Loreal,Health & Beauty,24.17,QO2LNGIX,184
+404,"Mattel 55"" 4K Smart TV",Mattel,Electronics,1200.22,7DCBHHLK,141
+405,Loreal 12-Pack Soda,Loreal,Grocery,19.97,106AK32O,208
+406,Samsung Moisturizing Lotion,Samsung,Health & Beauty,34.43,985I0HIV,283
+407,Hasbro Bath Towel Set,Hasbro,Home & Kitchen,241.74,LG1ZHQUN,296
+408,Mattel Whole Milk 1 Gallon,Mattel,Grocery,10.5,XMIP11YK,12
+409,Apple Matte Lipstick,Apple,Health & Beauty,11.92,8LWVV59H,201
+410,"Adidas Laptop 15""",Adidas,Electronics,363.67,DUQ6DDTB,251
+411,Nike Wireless Headphones,Nike,Electronics,197.29,8KIXCCSG,211
+412,Nike 12-Speed Blender,Nike,Home & Kitchen,56.16,P0O6H5L3,244
+413,Loreal Sliced Bread 20oz,Loreal,Grocery,12.16,SYJAFCO3,270
+414,IKEA Running Shoes,IKEA,Clothing,97.44,U0K5QZZK,90
+415,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,271.99,0Q6GUO8I,81
+416,Adidas Cotton T-Shirt,Adidas,Clothing,136.66,C066O1EN,54
+417,Sony Moisturizing Lotion,Sony,Health & Beauty,25.29,JSQCZ0N0,100
+418,Apple 12-Speed Blender,Apple,Home & Kitchen,90.17,ZEYQQCXZ,225
+419,LG Sliced Bread 20oz,LG,Grocery,16.99,GADKTOC1,140
+420,Hasbro Sliced Bread 20oz,Hasbro,Grocery,4.38,Z6TPBWSX,53
+421,Mattel Upright Vacuum,Mattel,Home & Kitchen,34.68,A117NIDP,8
+422,Levis Men's Crew Socks 10-Pack,Levis,Clothing,51.91,523GGODL,288
+423,Levis Classic Board Game,Levis,Toys,94.09,OPIDLAXA,109
+424,KitchenAid 12-Speed Blender,KitchenAid,Home & Kitchen,204.23,KWB5O1R9,275
+425,Nike Fluoride Toothpaste,Nike,Health & Beauty,48.16,V9ZY9YLW,163
+426,LG Action Figure Set,LG,Toys,40.16,VVNXIV9I,64
+427,KitchenAid Running Shoes,KitchenAid,Clothing,153.88,WCNKFHB7,228
+428,Sony Classic Board Game,Sony,Toys,35.03,X1S9XKA4,170
+429,KitchenAid Women's Slim Jeans,KitchenAid,Clothing,112.47,6XIYZVNL,227
+430,Samsung Action Figure Set,Samsung,Toys,88.29,CGWFHDV3,105
+431,Kelloggs Whole Milk 1 Gallon,Kelloggs,Grocery,9.1,QFHPVKU8,104
+432,LG Men's Crew Socks 10-Pack,LG,Clothing,190.69,MNQPVPF8,247
+433,"Old Navy Laptop 15""",Old Navy,Electronics,1295.66,17VF0JQQ,193
+434,Loreal Moisturizing Lotion,Loreal,Health & Beauty,8.24,EQFGAS0R,213
+435,Pepsi Upright Vacuum,Pepsi,Home & Kitchen,157.07,XVOB7NUG,224
+436,Pepsi Running Shoes,Pepsi,Clothing,130.65,NCNPIR7N,15
+437,Hanes 1000-Piece Puzzle,Hanes,Toys,64.49,7FIUXFED,197
+438,IKEA 12-Speed Blender,IKEA,Home & Kitchen,165.19,GP3JK8XN,158
+439,Procter & Gamble Action Figure Set,Procter & Gamble,Toys,19.83,U23JH0ZA,87
+440,Samsung 12-Speed Blender,Samsung,Home & Kitchen,39.56,ZSX0GNZH,94
+441,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,30.52,HH03G95P,56
+442,Nike Action Figure Set,Nike,Toys,36.38,NJMVRYDC,4
+443,IKEA Action Figure Set,IKEA,Toys,18.72,SAV917RM,220
+444,Pepsi Cotton T-Shirt,Pepsi,Clothing,199.89,37XNCMLD,234
+445,Old Navy Classic Board Game,Old Navy,Toys,12.31,ET81IQY5,264
+446,Levis 12-Speed Blender,Levis,Home & Kitchen,296.13,83AMB3LP,249
+447,Loreal 12-Speed Blender,Loreal,Home & Kitchen,117.53,77RXZDNV,74
+448,IKEA Daily Shampoo 12oz,IKEA,Health & Beauty,10.75,2KYT5GQE,277
+449,KitchenAid 12-Pack Soda,KitchenAid,Grocery,4.24,7ZD9B7LN,144
+450,Maybelline Cereal Box 18oz,Maybelline,Grocery,19.08,YX7WR2LI,295
+451,Great Value Fluoride Toothpaste,Great Value,Health & Beauty,21.97,Z0NXU43I,60
+452,Great Value Men's Crew Socks 10-Pack,Great Value,Clothing,26.94,070EN48U,1
+453,Apple Women's Slim Jeans,Apple,Clothing,170.95,9LNY2SVH,203
+454,"Adidas Laptop 15""",Adidas,Electronics,542.3,3KHYFK04,18
+455,Sony Fluoride Toothpaste,Sony,Health & Beauty,27.61,YJ4UWHK8,31
+456,Hanes Women's Slim Jeans,Hanes,Clothing,171.13,7I07140K,82
+457,"Adidas Laptop 15""",Adidas,Electronics,572.37,Y91OTKZH,281
+458,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,110.56,25B7KXUP,248
+459,Hanes Women's Slim Jeans,Hanes,Clothing,51.45,00A0UY9F,219
+460,Nike Action Figure Set,Nike,Toys,18.64,9GB9XV8W,207
+461,Apple Whole Milk 1 Gallon,Apple,Grocery,5.58,RY8XNY2X,238
+462,Old Navy 1000-Piece Puzzle,Old Navy,Toys,66.91,QAEEX6IV,294
+463,Maybelline 12-Speed Blender,Maybelline,Home & Kitchen,242.42,GRXPUDC6,276
+464,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,8.48,32TC4T3X,107
+465,Coca-Cola Classic Board Game,Coca-Cola,Toys,87.58,ZAQLBUXD,132
+466,"Great Value 55"" 4K Smart TV",Great Value,Electronics,808.61,NTP8AK8S,151
+467,Adidas Fashion Doll,Adidas,Toys,22.59,RL69VSYX,23
+468,Apple 12-Pack Soda,Apple,Grocery,3.69,4HETVJ0P,282
+469,Maybelline Running Shoes,Maybelline,Clothing,133.46,FQ8Y7FHW,138
+470,Levis 1000-Piece Puzzle,Levis,Toys,60.73,XSF3L2N8,127
+471,"Maybelline 55"" 4K Smart TV",Maybelline,Electronics,844.06,YOLD62F2,141
+472,"Coca-Cola Laptop 15""",Coca-Cola,Electronics,1471.28,I82ES5V3,49
+473,Pepsi Fluoride Toothpaste,Pepsi,Health & Beauty,29.82,V6G8OM08,273
+474,Loreal Moisturizing Lotion,Loreal,Health & Beauty,26.46,EASFEN0B,190
+475,KitchenAid Fashion Doll,KitchenAid,Toys,73.61,G92SJP75,118
+476,Great Value Cotton T-Shirt,Great Value,Clothing,87.24,LDC08FC0,284
+477,Samsung Upright Vacuum,Samsung,Home & Kitchen,209.57,7ERYYTEA,98
+478,Samsung Fashion Doll,Samsung,Toys,73.23,0I0835TV,230
+479,Kelloggs 12-Pack Soda,Kelloggs,Grocery,4.32,NEMBRG8M,128
+480,Coca-Cola Fluoride Toothpaste,Coca-Cola,Health & Beauty,18.46,KH0UHK7X,19
+481,Loreal Upright Vacuum,Loreal,Home & Kitchen,36.1,AQKDM0OA,221
+482,Levis 12-Speed Blender,Levis,Home & Kitchen,168.15,6O6A1JQN,187
+483,Nike Bath Towel Set,Nike,Home & Kitchen,50.43,P4FMPM5H,98
+484,Apple Women's Slim Jeans,Apple,Clothing,84.96,06FHRXJP,282
+485,Hanes Bath Towel Set,Hanes,Home & Kitchen,230.31,2O003E82,65
+486,Pepsi Whole Milk 1 Gallon,Pepsi,Grocery,15.58,IYM90PKR,220
+487,Loreal 12-Pack Soda,Loreal,Grocery,14.86,GKEJZXPR,53
+488,Kelloggs Classic Board Game,Kelloggs,Toys,26.98,4WFEOJGF,10
+489,Levis Daily Shampoo 12oz,Levis,Health & Beauty,43.9,NSZ9HPCP,27
+490,Coca-Cola Cotton T-Shirt,Coca-Cola,Clothing,79.08,7ZI6GAXL,147
+491,Maybelline 12-Speed Blender,Maybelline,Home & Kitchen,140.65,JRMEYY1E,185
+492,Pepsi 1000-Piece Puzzle,Pepsi,Toys,31.44,JVDDWVB8,98
+493,Hasbro Whole Milk 1 Gallon,Hasbro,Grocery,2.42,TM09HZBG,282
+494,Maybelline 1000-Piece Puzzle,Maybelline,Toys,90.54,QZ6CP7SA,141
+495,Hanes 1000-Piece Puzzle,Hanes,Toys,14.09,U2Y0OY58,85
+496,Kelloggs Upright Vacuum,Kelloggs,Home & Kitchen,177.5,OVHAUVA7,263
+497,Kelloggs Bath Towel Set,Kelloggs,Home & Kitchen,104.95,HZTGBIBF,143
+498,Maybelline Whole Milk 1 Gallon,Maybelline,Grocery,13.21,I3TAMVNC,282
+499,Hanes Running Shoes,Hanes,Clothing,180.68,K9WAM0KJ,9
+500,IKEA Daily Shampoo 12oz,IKEA,Health & Beauty,37.52,Y8JWVHPL,105
+501,Old Navy Matte Lipstick,Old Navy,Health & Beauty,25.07,0PFRRQ3G,292
+502,Nike Bath Towel Set,Nike,Home & Kitchen,25.89,FGOVCCI6,207
+503,Kelloggs Wireless Headphones,Kelloggs,Electronics,1117.47,3VNA31XB,128
+504,Maybelline Wireless Headphones,Maybelline,Electronics,1414.04,V2A2T34D,72
+505,IKEA Upright Vacuum,IKEA,Home & Kitchen,248.33,LRITJTAB,279
+506,Coca-Cola Running Shoes,Coca-Cola,Clothing,36.95,6APFXI5N,58
+507,Nike 12-Speed Blender,Nike,Home & Kitchen,82.87,8KCMM7DB,78
+508,Procter & Gamble Sliced Bread 20oz,Procter & Gamble,Grocery,12.39,YFYK3MD6,189
+509,Great Value Men's Crew Socks 10-Pack,Great Value,Clothing,173.73,92FFQ293,58
+510,Procter & Gamble Fluoride Toothpaste,Procter & Gamble,Health & Beauty,11.51,LE1MRR9V,171
+511,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,8.95,RTT3NUPU,113
+512,Great Value Classic Board Game,Great Value,Toys,42.55,H4NRED6M,72
+513,Hasbro Women's Slim Jeans,Hasbro,Clothing,168.7,T7PHI0EZ,74
+514,Samsung Upright Vacuum,Samsung,Home & Kitchen,124.07,ZXC45BNC,40
+515,"IKEA Laptop 15""",IKEA,Electronics,309.6,G00ZKOM2,7
+516,Coca-Cola Women's Slim Jeans,Coca-Cola,Clothing,21.4,XVGFOP8Q,133
+517,Kelloggs Fluoride Toothpaste,Kelloggs,Health & Beauty,36.92,PF9S9EHW,113
+518,Nike 12-Speed Blender,Nike,Home & Kitchen,248.64,QLX3F2XH,56
+519,Great Value Smartphone 128GB,Great Value,Electronics,944.47,4BKTCV1L,283
+520,Apple 12-Pack Soda,Apple,Grocery,6.11,9UU2BL7A,183
+521,Old Navy Women's Slim Jeans,Old Navy,Clothing,69.75,OMEYL6SS,77
+522,"IKEA Laptop 15""",IKEA,Electronics,767.73,5BFYCW8I,111
+523,Hanes Classic Board Game,Hanes,Toys,99.41,S9VS1QEK,221
+524,Old Navy Wireless Headphones,Old Navy,Electronics,392.35,VCFWR2F5,281
+525,"LG 55"" 4K Smart TV",LG,Electronics,736.73,GKCUMCZQ,243
+526,Hasbro Women's Slim Jeans,Hasbro,Clothing,188.57,8RNKOWYP,263
+527,Sony Fluoride Toothpaste,Sony,Health & Beauty,8.76,OQ59B9C2,288
+528,"Hanes 55"" 4K Smart TV",Hanes,Electronics,506.92,FOCNQDQX,239
+529,Great Value Wireless Headphones,Great Value,Electronics,1124.49,771HLL9R,244
+530,"Maybelline Laptop 15""",Maybelline,Electronics,153.6,FQXLBVN7,186
+531,LG Non-Stick Cookware Set,LG,Home & Kitchen,35.14,58YJWDCO,153
+532,Hasbro Fashion Doll,Hasbro,Toys,57.23,YJ3D6M1F,179
+533,LG Upright Vacuum,LG,Home & Kitchen,169.94,28P6U3U6,102
+534,IKEA Wireless Headphones,IKEA,Electronics,553.23,9700LFQF,163
+535,Procter & Gamble Smartphone 128GB,Procter & Gamble,Electronics,828.97,AQ3EQ8DH,97
+536,Adidas Non-Stick Cookware Set,Adidas,Home & Kitchen,188.26,HHGY8NNK,158
+537,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,34.2,QOMTS1EG,220
+538,Nike Women's Slim Jeans,Nike,Clothing,113.12,N4YPKW74,45
+539,"Great Value 55"" 4K Smart TV",Great Value,Electronics,962.76,OR17DPUB,149
+540,Levis Non-Stick Cookware Set,Levis,Home & Kitchen,237.53,TE48M2Q6,203
+541,Pepsi Wireless Headphones,Pepsi,Electronics,810.59,JXL66YA6,17
+542,Samsung Wireless Headphones,Samsung,Electronics,1206.71,4S0LGUPU,201
+543,Loreal Cereal Box 18oz,Loreal,Grocery,16.74,2UEW9G6S,224
+544,Coca-Cola 12-Pack Soda,Coca-Cola,Grocery,10.58,W24WJT8H,48
+545,"Procter & Gamble 55"" 4K Smart TV",Procter & Gamble,Electronics,980.45,VBZ7CN0E,233
+546,Pepsi Classic Board Game,Pepsi,Toys,31.57,6KTI221X,141
+547,"Hanes 55"" 4K Smart TV",Hanes,Electronics,993.74,UDQVDK6D,254
+548,Levis Running Shoes,Levis,Clothing,29.13,2ORWHP6W,231
+549,Nike Sliced Bread 20oz,Nike,Grocery,1.19,GUVB99RW,280
+550,Nike Smartphone 128GB,Nike,Electronics,1397.22,GBASF5EH,168
+551,KitchenAid Whole Milk 1 Gallon,KitchenAid,Grocery,14.83,7JR8MTK0,254
+552,Kelloggs Upright Vacuum,Kelloggs,Home & Kitchen,278.26,JH4Z8D2V,85
+553,LG Cereal Box 18oz,LG,Grocery,17.77,P03WVPUN,33
+554,Nike 12-Speed Blender,Nike,Home & Kitchen,288.27,JOV58TOE,166
+555,Nike Bath Towel Set,Nike,Home & Kitchen,88.69,HNFLAYZH,291
+556,KitchenAid Men's Crew Socks 10-Pack,KitchenAid,Clothing,83.26,VSDKV54C,216
+557,Procter & Gamble 1000-Piece Puzzle,Procter & Gamble,Toys,83.21,HBRBJEQV,197
+558,IKEA Whole Milk 1 Gallon,IKEA,Grocery,6.42,X496K4O6,271
+559,"Sony 55"" 4K Smart TV",Sony,Electronics,197.24,D20J1OUL,25
+560,Mattel Upright Vacuum,Mattel,Home & Kitchen,158.13,X647DI3E,166
+561,Procter & Gamble Classic Board Game,Procter & Gamble,Toys,25.32,G6N6975J,23
+562,Apple Smartphone 128GB,Apple,Electronics,205.06,LW3JGEQE,76
+563,Procter & Gamble Moisturizing Lotion,Procter & Gamble,Health & Beauty,35.07,SIRRK1RD,152
+564,Great Value 1000-Piece Puzzle,Great Value,Toys,60.27,5X0HC8CA,111
+565,Old Navy Non-Stick Cookware Set,Old Navy,Home & Kitchen,156.54,M31SL7ZX,259
+566,Hanes Wireless Headphones,Hanes,Electronics,1383.38,NQWHOCPY,296
+567,Coca-Cola Classic Board Game,Coca-Cola,Toys,51.49,DDAQJRTM,61
+568,Great Value Fluoride Toothpaste,Great Value,Health & Beauty,24.42,FSSBJDX0,217
+569,Mattel 12-Pack Soda,Mattel,Grocery,8.65,VTRPYX8H,28
+570,IKEA Smartphone 128GB,IKEA,Electronics,434.27,TJ5ZOOH3,138
+571,Levis Non-Stick Cookware Set,Levis,Home & Kitchen,240.0,MKV0DSZR,157
+572,KitchenAid Classic Board Game,KitchenAid,Toys,38.36,CG6FARMG,136
+573,"Nike 55"" 4K Smart TV",Nike,Electronics,931.61,8URID3U9,117
+574,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,38.97,1D2MRMTX,130
+575,Hasbro Men's Crew Socks 10-Pack,Hasbro,Clothing,167.27,KMSX54RJ,266
+576,Samsung Classic Board Game,Samsung,Toys,98.08,4XFRI09M,46
+577,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,19.34,5Y6Q8SJY,170
+578,IKEA Upright Vacuum,IKEA,Home & Kitchen,284.67,JGUZ4E2U,178
+579,Coca-Cola Men's Crew Socks 10-Pack,Coca-Cola,Clothing,104.8,YQF8WXKK,151
+580,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,404.26,3ERAM4BE,146
+581,Adidas Matte Lipstick,Adidas,Health & Beauty,47.92,ZF0P7KB7,128
+582,Old Navy Fashion Doll,Old Navy,Toys,45.92,667VGP52,72
+583,Levis 1000-Piece Puzzle,Levis,Toys,22.21,TKDUWTN5,224
+584,"Hanes Laptop 15""",Hanes,Electronics,1071.79,SYMMQ8Q6,14
+585,Great Value Non-Stick Cookware Set,Great Value,Home & Kitchen,192.26,KISETUK1,202
+586,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,9.79,1S4DJ9DV,149
+587,LG Fluoride Toothpaste,LG,Health & Beauty,43.89,EVSZZSU8,70
+588,Hanes Sliced Bread 20oz,Hanes,Grocery,12.94,Z73WHCF5,267
+589,KitchenAid Wireless Headphones,KitchenAid,Electronics,245.05,ASO7KRGI,280
+590,Loreal Running Shoes,Loreal,Clothing,173.27,WPWG3XG0,280
+591,LG Cereal Box 18oz,LG,Grocery,6.51,Y8RYOZDP,218
+592,Samsung Sliced Bread 20oz,Samsung,Grocery,9.68,UAKX6WB6,72
+593,Hasbro Bath Towel Set,Hasbro,Home & Kitchen,22.55,FS4H6SSG,78
+594,IKEA Cotton T-Shirt,IKEA,Clothing,97.3,4F2X7C4R,242
+595,Nike Fluoride Toothpaste,Nike,Health & Beauty,10.82,L8MWOB4F,50
+596,Coca-Cola Fashion Doll,Coca-Cola,Toys,94.08,R1930I6G,197
+597,Great Value 12-Speed Blender,Great Value,Home & Kitchen,191.33,E4C1V47L,231
+598,Hanes Non-Stick Cookware Set,Hanes,Home & Kitchen,74.8,RYI0PT2D,13
+599,Coca-Cola Classic Board Game,Coca-Cola,Toys,12.99,FA1U5MY8,271
+600,Levis Non-Stick Cookware Set,Levis,Home & Kitchen,179.7,RMWUECPN,37
+601,Great Value Matte Lipstick,Great Value,Health & Beauty,40.21,KEIVLI77,129
+602,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,264.28,FKTISWLW,280
+603,Coca-Cola Fashion Doll,Coca-Cola,Toys,94.32,9XBPH5CH,169
+604,Apple Classic Board Game,Apple,Toys,54.42,3UV43MCO,42
+605,LG Matte Lipstick,LG,Health & Beauty,17.17,BBSXPK48,11
+606,Samsung Wireless Headphones,Samsung,Electronics,847.86,4Y0TB1ZP,219
+607,Hanes Daily Shampoo 12oz,Hanes,Health & Beauty,24.71,69NGPCIV,117
+608,Adidas 12-Speed Blender,Adidas,Home & Kitchen,297.46,AZ3CEGBM,126
+609,Hanes Running Shoes,Hanes,Clothing,100.95,ECJTR0M6,113
+610,Mattel Bath Towel Set,Mattel,Home & Kitchen,238.46,KXSJZSB6,249
+611,Great Value Women's Slim Jeans,Great Value,Clothing,183.29,4SKTE02B,121
+612,Hasbro Fashion Doll,Hasbro,Toys,95.77,A4JVK8C4,197
+613,Samsung Upright Vacuum,Samsung,Home & Kitchen,127.71,BHGPBKTM,14
+614,Sony Fluoride Toothpaste,Sony,Health & Beauty,41.46,V1M3PP00,30
+615,"Adidas Laptop 15""",Adidas,Electronics,1433.46,7K9TPZ1J,196
+616,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,274.16,KYJ91KUB,141
+617,Maybelline Cotton T-Shirt,Maybelline,Clothing,158.66,3VEULJGQ,226
+618,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,1452.24,R4HC7JVL,33
+619,Nike Bath Towel Set,Nike,Home & Kitchen,234.47,J5EWFWBE,20
+620,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,12.02,BZCZJJY4,181
+621,Apple Matte Lipstick,Apple,Health & Beauty,20.74,CPSILN3O,219
+622,Hanes Men's Crew Socks 10-Pack,Hanes,Clothing,72.04,2MOXQ9WF,23
+623,Hanes Men's Crew Socks 10-Pack,Hanes,Clothing,30.18,HLZ02Z7N,299
+624,"Hanes Laptop 15""",Hanes,Electronics,1167.66,X889U9W0,276
+625,Coca-Cola Action Figure Set,Coca-Cola,Toys,64.64,XSLHU6L2,186
+626,Hasbro Sliced Bread 20oz,Hasbro,Grocery,15.22,EI05NMS6,248
+627,KitchenAid Moisturizing Lotion,KitchenAid,Health & Beauty,40.38,I397I6YX,134
+628,Sony Cotton T-Shirt,Sony,Clothing,32.41,OSFR5HGQ,86
+629,Procter & Gamble Smartphone 128GB,Procter & Gamble,Electronics,1171.71,ZQD54AGC,264
+630,Old Navy Moisturizing Lotion,Old Navy,Health & Beauty,20.95,OUZE66VW,24
+631,"Pepsi Laptop 15""",Pepsi,Electronics,1374.94,W0P1Z00V,261
+632,"Hanes 55"" 4K Smart TV",Hanes,Electronics,930.97,NXNPSV8D,153
+633,Sony 12-Speed Blender,Sony,Home & Kitchen,177.96,6U4PLLGF,108
+634,Kelloggs Bath Towel Set,Kelloggs,Home & Kitchen,181.04,WDKEJP5K,133
+635,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,34.99,FH41A68T,100
+636,"LG 55"" 4K Smart TV",LG,Electronics,617.36,K8PQEQ7Z,62
+637,Procter & Gamble Upright Vacuum,Procter & Gamble,Home & Kitchen,93.66,590EMC20,168
+638,Kelloggs Sliced Bread 20oz,Kelloggs,Grocery,6.25,WS1ZL7P7,267
+639,Levis Men's Crew Socks 10-Pack,Levis,Clothing,190.34,WIV5HHQR,96
+640,LG 1000-Piece Puzzle,LG,Toys,21.86,WDS0HPRW,92
+641,Procter & Gamble Smartphone 128GB,Procter & Gamble,Electronics,958.73,WIMT8545,249
+642,Old Navy Bath Towel Set,Old Navy,Home & Kitchen,172.16,KH861PQI,218
+643,"Nike Laptop 15""",Nike,Electronics,1438.84,XMOE545V,121
+644,Mattel Smartphone 128GB,Mattel,Electronics,810.48,62C1JLOP,205
+645,Apple Cotton T-Shirt,Apple,Clothing,102.25,HWBQH5T2,57
+646,Loreal Fluoride Toothpaste,Loreal,Health & Beauty,10.81,T8AN2LM1,33
+647,Apple Classic Board Game,Apple,Toys,42.59,HFT4I26L,111
+648,KitchenAid Daily Shampoo 12oz,KitchenAid,Health & Beauty,6.62,A7DORFKI,127
+649,"Maybelline 55"" 4K Smart TV",Maybelline,Electronics,1238.19,NO355CSZ,213
+650,Samsung Wireless Headphones,Samsung,Electronics,233.78,VO342P0K,235
+651,Coca-Cola Sliced Bread 20oz,Coca-Cola,Grocery,19.42,UNPIOKKZ,260
+652,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,19.87,081ZQUA1,229
+653,LG Men's Crew Socks 10-Pack,LG,Clothing,132.14,L39DG5RI,73
+654,Loreal Upright Vacuum,Loreal,Home & Kitchen,166.55,41CRO04B,290
+655,Procter & Gamble Daily Shampoo 12oz,Procter & Gamble,Health & Beauty,17.07,HURR8IQR,285
+656,Great Value Action Figure Set,Great Value,Toys,48.31,CEASEH5E,218
+657,Nike Upright Vacuum,Nike,Home & Kitchen,59.16,5PAE9Z5J,166
+658,Pepsi Matte Lipstick,Pepsi,Health & Beauty,11.37,SHWZSJQ7,70
+659,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,1.19,OFC9LGYT,170
+660,"Apple Laptop 15""",Apple,Electronics,932.24,CW5MAGK6,219
+661,Mattel Fluoride Toothpaste,Mattel,Health & Beauty,33.1,OJTXCF0K,135
+662,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,40.86,V1L1VJ35,243
+663,Nike Whole Milk 1 Gallon,Nike,Grocery,15.88,9D2FF5L6,27
+664,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,9.08,QK1IO1ZM,268
+665,Kelloggs Men's Crew Socks 10-Pack,Kelloggs,Clothing,177.82,4884Z4UR,129
+666,Coca-Cola Fashion Doll,Coca-Cola,Toys,68.69,G541MPW5,98
+667,Pepsi Non-Stick Cookware Set,Pepsi,Home & Kitchen,281.29,9HMHVL66,258
+668,Loreal Smartphone 128GB,Loreal,Electronics,146.94,JRBZJW83,242
+669,Hasbro Moisturizing Lotion,Hasbro,Health & Beauty,12.82,0XTDNWZZ,91
+670,Great Value Cereal Box 18oz,Great Value,Grocery,16.85,EPZL4J4X,9
+671,Sony Women's Slim Jeans,Sony,Clothing,182.09,V7S7O4YC,257
+672,Maybelline Whole Milk 1 Gallon,Maybelline,Grocery,4.28,BVYOW47L,288
+673,Coca-Cola Cotton T-Shirt,Coca-Cola,Clothing,98.59,4D7D7GDL,11
+674,Samsung 12-Pack Soda,Samsung,Grocery,13.12,Q57LY750,68
+675,Apple Running Shoes,Apple,Clothing,144.12,GFLIG5GK,226
+676,Great Value Running Shoes,Great Value,Clothing,77.48,N1S3YG8V,80
+677,IKEA Matte Lipstick,IKEA,Health & Beauty,49.72,PXYKM8T0,138
+678,Kelloggs Wireless Headphones,Kelloggs,Electronics,461.5,QBEXGFVN,194
+679,IKEA Action Figure Set,IKEA,Toys,39.01,DM6FRM6G,184
+680,Nike Running Shoes,Nike,Clothing,113.89,1PWVZ0RI,192
+681,Sony Moisturizing Lotion,Sony,Health & Beauty,35.54,K8516SP1,296
+682,IKEA 12-Speed Blender,IKEA,Home & Kitchen,65.93,FKVZS8UF,171
+683,Great Value Smartphone 128GB,Great Value,Electronics,1210.01,FMOQXHGL,95
+684,Levis Cereal Box 18oz,Levis,Grocery,2.71,IY4NRMQY,109
+685,Old Navy Upright Vacuum,Old Navy,Home & Kitchen,217.74,1DE1E163,218
+686,Old Navy Daily Shampoo 12oz,Old Navy,Health & Beauty,20.61,Y8A5GINS,1
+687,Loreal Moisturizing Lotion,Loreal,Health & Beauty,46.16,XEGHPMXP,146
+688,Old Navy Running Shoes,Old Navy,Clothing,16.62,8PFY4QCY,52
+689,Old Navy Action Figure Set,Old Navy,Toys,24.48,ESYAXYPB,218
+690,Coca-Cola Running Shoes,Coca-Cola,Clothing,105.39,2Z48EGP1,41
+691,Samsung Sliced Bread 20oz,Samsung,Grocery,19.02,ZJSW5PQB,251
+692,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,268.97,YJMK3TGM,9
+693,Sony Bath Towel Set,Sony,Home & Kitchen,198.08,VMB0IDD0,253
+694,Maybelline Bath Towel Set,Maybelline,Home & Kitchen,292.12,YI340SQC,191
+695,"Hanes 55"" 4K Smart TV",Hanes,Electronics,634.68,9C70PA8J,41
+696,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,179.85,9WT2YBUH,224
+697,Nike Cotton T-Shirt,Nike,Clothing,105.3,BOGKAH2X,141
+698,Hasbro Cotton T-Shirt,Hasbro,Clothing,28.46,IZHW0VQP,169
+699,Old Navy Moisturizing Lotion,Old Navy,Health & Beauty,46.84,AMMPQ0HZ,200
+700,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,135.53,UCR9C0TK,162
+701,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,63.65,VWUO11K0,121
+702,Adidas Non-Stick Cookware Set,Adidas,Home & Kitchen,125.96,8EOHDK51,206
+703,Procter & Gamble Fluoride Toothpaste,Procter & Gamble,Health & Beauty,38.81,PVLND581,163
+704,Adidas Moisturizing Lotion,Adidas,Health & Beauty,15.13,O1K7F5OA,172
+705,Nike 12-Speed Blender,Nike,Home & Kitchen,127.34,X9OWWEW9,293
+706,Procter & Gamble Action Figure Set,Procter & Gamble,Toys,39.25,IUQDN05X,283
+707,Levis Matte Lipstick,Levis,Health & Beauty,25.6,0IQZHECB,296
+708,Hasbro Non-Stick Cookware Set,Hasbro,Home & Kitchen,211.43,PIGQX245,82
+709,Hasbro Whole Milk 1 Gallon,Hasbro,Grocery,1.13,BY595CPJ,276
+710,"Loreal 55"" 4K Smart TV",Loreal,Electronics,713.93,3C330BO7,226
+711,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,60.88,J31EGOM6,248
+712,Maybelline Whole Milk 1 Gallon,Maybelline,Grocery,7.27,YQZ11MYL,231
+713,Maybelline 1000-Piece Puzzle,Maybelline,Toys,63.5,1FKHNNK8,82
+714,Mattel Moisturizing Lotion,Mattel,Health & Beauty,37.09,YF2EV4JI,109
+715,Mattel Matte Lipstick,Mattel,Health & Beauty,31.29,JZ09OWGM,80
+716,Kelloggs Fluoride Toothpaste,Kelloggs,Health & Beauty,28.55,N7X5RRNY,34
+717,KitchenAid Cotton T-Shirt,KitchenAid,Clothing,49.22,FV0EHRUW,7
+718,Kelloggs Classic Board Game,Kelloggs,Toys,76.72,NBW8SJ84,276
+719,"Apple Laptop 15""",Apple,Electronics,893.38,IJ0YXIYQ,21
+720,Maybelline Fluoride Toothpaste,Maybelline,Health & Beauty,9.11,G3C6SCIV,298
+721,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,170.34,2LWHEDHT,111
+722,LG Fluoride Toothpaste,LG,Health & Beauty,30.62,U5E51H3W,234
+723,"Maybelline Laptop 15""",Maybelline,Electronics,941.9,RGSS8K5I,141
+724,Adidas 1000-Piece Puzzle,Adidas,Toys,66.33,E1GA6SRG,222
+725,Mattel Action Figure Set,Mattel,Toys,93.28,PWTG21HS,164
+726,LG Daily Shampoo 12oz,LG,Health & Beauty,35.81,7HYLGOGF,81
+727,Kelloggs Running Shoes,Kelloggs,Clothing,134.16,22J7Q4KF,171
+728,Pepsi 1000-Piece Puzzle,Pepsi,Toys,50.47,POP1O8M2,234
+729,Samsung Women's Slim Jeans,Samsung,Clothing,49.64,ZKNL2LUH,111
+730,Kelloggs Moisturizing Lotion,Kelloggs,Health & Beauty,43.54,DILRZQ8B,200
+731,LG Classic Board Game,LG,Toys,35.21,VNDXJN7D,69
+732,Great Value 1000-Piece Puzzle,Great Value,Toys,97.95,035VUUPL,280
+733,Maybelline 1000-Piece Puzzle,Maybelline,Toys,72.06,F15Z08N1,110
+734,Sony Cereal Box 18oz,Sony,Grocery,5.33,NH8JV7FX,219
+735,LG 12-Speed Blender,LG,Home & Kitchen,252.87,C9NU985L,276
+736,Mattel Bath Towel Set,Mattel,Home & Kitchen,197.62,0U92T24D,240
+737,Levis Daily Shampoo 12oz,Levis,Health & Beauty,39.52,PJQ50XCX,174
+738,Kelloggs Upright Vacuum,Kelloggs,Home & Kitchen,269.03,OKWOALF4,300
+739,Sony Fashion Doll,Sony,Toys,68.83,H376ZUGF,158
+740,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,11.14,8BEMC57X,104
+741,Nike Running Shoes,Nike,Clothing,198.29,I71A57E8,14
+742,Levis Upright Vacuum,Levis,Home & Kitchen,33.78,PH1VE8SU,265
+743,Nike Wireless Headphones,Nike,Electronics,268.5,RV0LG92M,131
+744,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,5.73,NP8DMLC8,154
+745,Great Value Cereal Box 18oz,Great Value,Grocery,17.64,A806B4GA,266
+746,Hanes Cereal Box 18oz,Hanes,Grocery,15.48,C25XNOFG,266
+747,Nike Sliced Bread 20oz,Nike,Grocery,17.7,DFRLW6JL,14
+748,Samsung Running Shoes,Samsung,Clothing,16.5,56BNVSFA,115
+749,"Procter & Gamble 55"" 4K Smart TV",Procter & Gamble,Electronics,257.37,R94TEVWL,241
+750,Hanes Cotton T-Shirt,Hanes,Clothing,134.71,NWZR04HH,67
+751,KitchenAid Whole Milk 1 Gallon,KitchenAid,Grocery,15.12,ZKWIJ0KZ,237
+752,IKEA 1000-Piece Puzzle,IKEA,Toys,78.39,EPXU7B6N,25
+753,Nike Whole Milk 1 Gallon,Nike,Grocery,3.72,B2FLURMW,296
+754,Hasbro Non-Stick Cookware Set,Hasbro,Home & Kitchen,146.89,JP0XSM9G,175
+755,Adidas Upright Vacuum,Adidas,Home & Kitchen,205.71,YMSCNX8E,117
+756,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,174.13,K5LP9C5S,204
+757,Levis Matte Lipstick,Levis,Health & Beauty,42.8,HA0MVF4S,273
+758,Adidas Women's Slim Jeans,Adidas,Clothing,141.8,9GFYW4I7,78
+759,Loreal Moisturizing Lotion,Loreal,Health & Beauty,43.62,K88K686Q,70
+760,Mattel Action Figure Set,Mattel,Toys,16.74,ZYH0VC1F,247
+761,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,15.94,XOG4C8J6,64
+762,IKEA Classic Board Game,IKEA,Toys,28.52,FJLWSS1V,119
+763,Hasbro 1000-Piece Puzzle,Hasbro,Toys,84.0,TVF51Z58,21
+764,Maybelline 12-Speed Blender,Maybelline,Home & Kitchen,195.53,PGZ5RKSD,186
+765,LG Cereal Box 18oz,LG,Grocery,9.01,W5K0JJSP,129
+766,Great Value Men's Crew Socks 10-Pack,Great Value,Clothing,29.21,3IRVXD2Z,288
+767,IKEA Moisturizing Lotion,IKEA,Health & Beauty,32.3,5YBD4XDD,123
+768,IKEA Running Shoes,IKEA,Clothing,164.9,ZBXPQ5BO,222
+769,Samsung Classic Board Game,Samsung,Toys,61.02,A8D7204J,177
+770,KitchenAid Cotton T-Shirt,KitchenAid,Clothing,94.74,BQ9J2H1T,165
+771,Old Navy 1000-Piece Puzzle,Old Navy,Toys,80.29,GRDMT28L,157
+772,"Great Value Laptop 15""",Great Value,Electronics,538.09,RGNJZM36,82
+773,Sony Whole Milk 1 Gallon,Sony,Grocery,3.12,U6ZU1TOZ,102
+774,"Great Value Laptop 15""",Great Value,Electronics,1293.09,FMMEN405,151
+775,IKEA Daily Shampoo 12oz,IKEA,Health & Beauty,19.57,I3IF9AIZ,113
+776,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,13.31,HAIAW4OT,291
+777,Procter & Gamble 12-Pack Soda,Procter & Gamble,Grocery,17.11,UW590Z92,135
+778,Pepsi Bath Towel Set,Pepsi,Home & Kitchen,272.01,7LM8E49I,276
+779,Hanes Daily Shampoo 12oz,Hanes,Health & Beauty,49.15,2SRL3VZZ,284
+780,Hasbro Sliced Bread 20oz,Hasbro,Grocery,11.91,BWRP8GUU,30
+781,LG Women's Slim Jeans,LG,Clothing,22.12,M8JJ6AVP,69
+782,Levis Upright Vacuum,Levis,Home & Kitchen,106.75,ZKI2SO19,162
+783,"Loreal 55"" 4K Smart TV",Loreal,Electronics,1096.96,ME9WT00I,92
+784,Samsung Cereal Box 18oz,Samsung,Grocery,14.84,LDOZY2NR,176
+785,Coca-Cola Sliced Bread 20oz,Coca-Cola,Grocery,7.75,Z5RGOI9W,174
+786,Coca-Cola Bath Towel Set,Coca-Cola,Home & Kitchen,25.71,V9CNG8TA,197
+787,Samsung Cotton T-Shirt,Samsung,Clothing,173.28,8GWGHM56,192
+788,Nike Moisturizing Lotion,Nike,Health & Beauty,36.79,5GF3BBT8,62
+789,Mattel Men's Crew Socks 10-Pack,Mattel,Clothing,76.32,GS6RV977,281
+790,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,207.24,CIF8R2BC,246
+791,IKEA Action Figure Set,IKEA,Toys,86.3,DX6UZS1X,145
+792,Hanes Running Shoes,Hanes,Clothing,155.07,KWONRRLR,200
+793,LG Cotton T-Shirt,LG,Clothing,156.46,ZSB8LV6T,161
+794,Apple Action Figure Set,Apple,Toys,14.25,KG8B350S,92
+795,Pepsi Daily Shampoo 12oz,Pepsi,Health & Beauty,45.98,D86ZCHHX,8
+796,Old Navy Wireless Headphones,Old Navy,Electronics,1360.45,EK6X6LGO,117
+797,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,39.63,VWJ7YZ6L,140
+798,Samsung Upright Vacuum,Samsung,Home & Kitchen,250.6,N4G2JAYB,230
+799,KitchenAid Whole Milk 1 Gallon,KitchenAid,Grocery,13.11,E6RGL7JY,204
+800,Adidas Cotton T-Shirt,Adidas,Clothing,64.09,UDE358TR,66
+801,Apple Moisturizing Lotion,Apple,Health & Beauty,26.55,EBNDYCPN,74
+802,Loreal 12-Speed Blender,Loreal,Home & Kitchen,205.61,S910BAF4,129
+803,Pepsi Cereal Box 18oz,Pepsi,Grocery,4.81,XOFKCGGX,225
+804,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,1280.79,VKFTLECS,9
+805,Nike Fluoride Toothpaste,Nike,Health & Beauty,21.67,FDINU31E,115
+806,Apple Action Figure Set,Apple,Toys,11.78,3RUNYN6I,252
+807,Maybelline Fluoride Toothpaste,Maybelline,Health & Beauty,49.11,WR6Q5IK0,199
+808,Nike Cotton T-Shirt,Nike,Clothing,150.6,PKBO549E,181
+809,Old Navy Cereal Box 18oz,Old Navy,Grocery,17.79,QQ8QMXET,126
+810,Levis 12-Pack Soda,Levis,Grocery,19.01,02NQ52NL,202
+811,LG Whole Milk 1 Gallon,LG,Grocery,11.31,Q685OHM6,197
+812,Procter & Gamble Matte Lipstick,Procter & Gamble,Health & Beauty,47.44,AHUG9Y1X,295
+813,Hanes Cereal Box 18oz,Hanes,Grocery,7.01,I01RV1TW,19
+814,Coca-Cola Action Figure Set,Coca-Cola,Toys,17.72,A5B4L6HF,110
+815,Great Value Cotton T-Shirt,Great Value,Clothing,128.41,L6QMGK2F,78
+816,Procter & Gamble Whole Milk 1 Gallon,Procter & Gamble,Grocery,11.11,WFTQ9Y69,76
+817,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,57.97,NNGAY37V,94
+818,Samsung Upright Vacuum,Samsung,Home & Kitchen,285.05,U595CEKO,77
+819,Levis Smartphone 128GB,Levis,Electronics,509.29,22M9RWV9,187
+820,Levis Cotton T-Shirt,Levis,Clothing,196.59,6ALGXZJ9,173
+821,"Maybelline Laptop 15""",Maybelline,Electronics,1023.17,LB57AUKH,241
+822,Old Navy 12-Speed Blender,Old Navy,Home & Kitchen,214.68,JNNS9PZE,178
+823,Maybelline Classic Board Game,Maybelline,Toys,53.99,J67DXLSE,66
+824,"KitchenAid 55"" 4K Smart TV",KitchenAid,Electronics,347.95,CUIDC00M,37
+825,IKEA Cereal Box 18oz,IKEA,Grocery,12.99,LXWCE77G,47
+826,Procter & Gamble Wireless Headphones,Procter & Gamble,Electronics,394.31,ZNWG3ZRZ,241
+827,IKEA Men's Crew Socks 10-Pack,IKEA,Clothing,94.08,SC9J5UGE,39
+828,Nike Sliced Bread 20oz,Nike,Grocery,15.37,IO4KOXHJ,177
+829,KitchenAid Action Figure Set,KitchenAid,Toys,68.94,8J1CCM0W,221
+830,"Hasbro 55"" 4K Smart TV",Hasbro,Electronics,1468.03,YL16ZV8U,164
+831,Pepsi Upright Vacuum,Pepsi,Home & Kitchen,123.72,KRT0IGYO,237
+832,Old Navy Running Shoes,Old Navy,Clothing,175.05,QF0N852N,77
+833,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,141.63,36F8HARJ,102
+834,"LG Laptop 15""",LG,Electronics,321.64,34JGVRP4,250
+835,Apple 1000-Piece Puzzle,Apple,Toys,96.53,CLRKI72O,7
+836,Nike Cotton T-Shirt,Nike,Clothing,129.79,YPEEK035,190
+837,LG Daily Shampoo 12oz,LG,Health & Beauty,5.8,NI8Y66W6,244
+838,Adidas Cotton T-Shirt,Adidas,Clothing,119.67,LGELW8IV,122
+839,LG Cereal Box 18oz,LG,Grocery,17.92,L5NFLTQ6,137
+840,"Hasbro Laptop 15""",Hasbro,Electronics,1188.41,2JF4CIWL,248
+841,Hanes Fluoride Toothpaste,Hanes,Health & Beauty,48.05,RL5H3G7V,152
+842,Apple Classic Board Game,Apple,Toys,57.12,SINZ4KHK,15
+843,Procter & Gamble Action Figure Set,Procter & Gamble,Toys,43.18,19QNFPL7,234
+844,Levis Running Shoes,Levis,Clothing,64.1,VLABLRF3,193
+845,Samsung Moisturizing Lotion,Samsung,Health & Beauty,34.08,OL4BKUU5,29
+846,Hanes Fashion Doll,Hanes,Toys,15.75,CFS7I19M,212
+847,Great Value Running Shoes,Great Value,Clothing,86.11,CO2ZTDHF,134
+848,KitchenAid Whole Milk 1 Gallon,KitchenAid,Grocery,13.25,UB4IBHIF,71
+849,Sony Fluoride Toothpaste,Sony,Health & Beauty,22.44,WOSKAZOC,103
+850,Apple Matte Lipstick,Apple,Health & Beauty,15.33,RMC5S3OF,4
+851,Loreal 1000-Piece Puzzle,Loreal,Toys,33.91,NN41JH6O,147
+852,Samsung Upright Vacuum,Samsung,Home & Kitchen,188.94,XSOGB205,103
+853,Mattel Matte Lipstick,Mattel,Health & Beauty,44.9,3MBWU5JS,159
+854,Levis Wireless Headphones,Levis,Electronics,1304.5,H8NL9VFR,288
+855,Mattel Matte Lipstick,Mattel,Health & Beauty,8.5,DABBAJAQ,291
+856,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,7.99,X80NKXKB,62
+857,Hanes Cotton T-Shirt,Hanes,Clothing,96.82,796EW825,244
+858,Samsung Whole Milk 1 Gallon,Samsung,Grocery,2.64,I5UUJZR0,79
+859,Great Value Cereal Box 18oz,Great Value,Grocery,13.88,BR3O9UBC,144
+860,Mattel Fashion Doll,Mattel,Toys,28.24,JY8GY39B,289
+861,Adidas Upright Vacuum,Adidas,Home & Kitchen,241.75,Z0KDN3TN,191
+862,Adidas Classic Board Game,Adidas,Toys,38.86,XOUN91FY,254
+863,Adidas Fashion Doll,Adidas,Toys,42.43,PV5LMQ15,85
+864,Sony Wireless Headphones,Sony,Electronics,938.31,T3F2F3HY,42
+865,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,165.48,UJT70Y2R,167
+866,Pepsi Fashion Doll,Pepsi,Toys,57.08,3HMO1DXQ,97
+867,Samsung Action Figure Set,Samsung,Toys,54.57,6ZL1KHW8,98
+868,"Samsung 55"" 4K Smart TV",Samsung,Electronics,514.1,H3YCQE8X,6
+869,Loreal 1000-Piece Puzzle,Loreal,Toys,40.89,NKW7WVY9,256
+870,Pepsi Men's Crew Socks 10-Pack,Pepsi,Clothing,58.6,R211PV58,252
+871,"Old Navy 55"" 4K Smart TV",Old Navy,Electronics,1447.88,1DJDI3WD,195
+872,Sony Classic Board Game,Sony,Toys,64.32,QLTZQWDY,15
+873,Hasbro Daily Shampoo 12oz,Hasbro,Health & Beauty,27.59,QZN7XBVZ,252
+874,Hasbro Sliced Bread 20oz,Hasbro,Grocery,17.22,BVPY8CRI,199
+875,Nike Fashion Doll,Nike,Toys,13.95,GMY4IQZ6,52
+876,Hanes 12-Pack Soda,Hanes,Grocery,15.07,8UPNZASY,279
+877,"Procter & Gamble Laptop 15""",Procter & Gamble,Electronics,146.95,PZCD5XRS,125
+878,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,4.08,UXQ9NJC2,95
+879,Procter & Gamble Daily Shampoo 12oz,Procter & Gamble,Health & Beauty,30.18,IFEZAC2E,137
+880,Kelloggs Daily Shampoo 12oz,Kelloggs,Health & Beauty,18.65,3LIRHXRH,89
+881,Adidas 12-Speed Blender,Adidas,Home & Kitchen,60.91,ES5CS9UI,212
+882,Pepsi Classic Board Game,Pepsi,Toys,84.52,O1BLOG0N,231
+883,KitchenAid Matte Lipstick,KitchenAid,Health & Beauty,26.57,8SO5WISR,39
+884,Loreal 12-Speed Blender,Loreal,Home & Kitchen,136.85,UZ11BJKX,175
+885,Adidas Cotton T-Shirt,Adidas,Clothing,184.67,4QR14VUY,294
+886,LG Sliced Bread 20oz,LG,Grocery,2.73,RMSWJJJK,263
+887,Sony Sliced Bread 20oz,Sony,Grocery,18.24,UML3SOJP,97
+888,Hanes Fluoride Toothpaste,Hanes,Health & Beauty,13.55,YZTHQSE0,150
+889,KitchenAid Classic Board Game,KitchenAid,Toys,63.83,WM53NOZ7,236
+890,Sony Matte Lipstick,Sony,Health & Beauty,16.46,CENTOC3J,254
+891,Adidas Bath Towel Set,Adidas,Home & Kitchen,163.11,PJ9WRDPL,72
+892,Coca-Cola Sliced Bread 20oz,Coca-Cola,Grocery,15.44,9BCDTED0,217
+893,Apple Whole Milk 1 Gallon,Apple,Grocery,1.19,MWJPIWUJ,283
+894,KitchenAid Women's Slim Jeans,KitchenAid,Clothing,14.36,V1G8NTAF,293
+895,Loreal 1000-Piece Puzzle,Loreal,Toys,82.86,EIOIV67K,2
+896,Mattel Cereal Box 18oz,Mattel,Grocery,12.01,VNHDCZP0,197
+897,Old Navy Daily Shampoo 12oz,Old Navy,Health & Beauty,29.36,J5R2SLRW,227
+898,Levis Fluoride Toothpaste,Levis,Health & Beauty,11.5,C4YGOHMJ,149
+899,Old Navy Cereal Box 18oz,Old Navy,Grocery,19.25,YUXCZAUM,11
+900,Procter & Gamble Upright Vacuum,Procter & Gamble,Home & Kitchen,274.57,DJIN9RG4,265
+901,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,43.07,9N1D6DZB,41
+902,Maybelline Moisturizing Lotion,Maybelline,Health & Beauty,11.71,FP5GOFC5,27
+903,Nike Fluoride Toothpaste,Nike,Health & Beauty,29.66,76I3HZCD,92
+904,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,29.9,NGTG2LGJ,11
+905,Kelloggs Daily Shampoo 12oz,Kelloggs,Health & Beauty,22.72,GQ4IVN2Q,233
+906,Coca-Cola 12-Pack Soda,Coca-Cola,Grocery,4.08,VB9EKTR1,282
+907,Old Navy Moisturizing Lotion,Old Navy,Health & Beauty,48.29,7MVZ01SO,258
+908,Hanes 12-Speed Blender,Hanes,Home & Kitchen,77.93,VNKVONNL,102
+909,"Levis Laptop 15""",Levis,Electronics,1185.1,1QV1F2OF,117
+910,Maybelline Upright Vacuum,Maybelline,Home & Kitchen,131.79,ZNHE8IFX,52
+911,Pepsi Men's Crew Socks 10-Pack,Pepsi,Clothing,76.61,655CK3TB,246
+912,Pepsi Smartphone 128GB,Pepsi,Electronics,370.87,7F9FZJAH,267
+913,Samsung Running Shoes,Samsung,Clothing,86.65,2QWKBSEP,250
+914,Kelloggs 12-Speed Blender,Kelloggs,Home & Kitchen,206.57,T0S9F3LZ,137
+915,Hanes 12-Pack Soda,Hanes,Grocery,2.77,NOBK8HUP,78
+916,Adidas Bath Towel Set,Adidas,Home & Kitchen,297.32,H9FB02H6,85
+917,LG Action Figure Set,LG,Toys,17.2,Q6W948JU,170
+918,Sony Classic Board Game,Sony,Toys,70.1,4VY32I3P,140
+919,Kelloggs Cotton T-Shirt,Kelloggs,Clothing,104.79,0O8K5DFI,113
+920,Hasbro 12-Pack Soda,Hasbro,Grocery,18.59,ZSOOUKIW,34
+921,Apple Running Shoes,Apple,Clothing,87.13,PO9MNLR9,203
+922,Levis Moisturizing Lotion,Levis,Health & Beauty,24.35,II2MVV4D,43
+923,Samsung Classic Board Game,Samsung,Toys,58.63,RD83X9AG,69
+924,Pepsi Cotton T-Shirt,Pepsi,Clothing,136.55,DFLD9CBA,99
+925,Old Navy Cereal Box 18oz,Old Navy,Grocery,3.04,VWS3KCVJ,264
+926,LG Wireless Headphones,LG,Electronics,1064.64,B4XZ3MSK,206
+927,KitchenAid Bath Towel Set,KitchenAid,Home & Kitchen,206.55,HQZBC5F9,65
+928,Great Value Sliced Bread 20oz,Great Value,Grocery,15.64,YUZPEX7T,155
+929,Levis Fashion Doll,Levis,Toys,69.06,NOMB42O3,238
+930,Old Navy 1000-Piece Puzzle,Old Navy,Toys,50.47,30ZX815G,85
+931,Procter & Gamble Men's Crew Socks 10-Pack,Procter & Gamble,Clothing,102.51,9F5IV86Z,214
+932,Samsung Smartphone 128GB,Samsung,Electronics,1095.91,2NAR3SHL,259
+933,Kelloggs Running Shoes,Kelloggs,Clothing,179.02,9WWP82QZ,281
+934,Adidas Running Shoes,Adidas,Clothing,18.46,LOW2R576,293
+935,Sony 12-Pack Soda,Sony,Grocery,9.54,KXBI6JJT,21
+936,Hasbro 12-Pack Soda,Hasbro,Grocery,8.54,P82J3TPS,157
+937,Apple Moisturizing Lotion,Apple,Health & Beauty,49.5,HXKEI9UL,280
+938,Levis Action Figure Set,Levis,Toys,71.66,CX8AE0JX,132
+939,Nike Upright Vacuum,Nike,Home & Kitchen,77.15,FD7LTTC9,63
+940,"KitchenAid 55"" 4K Smart TV",KitchenAid,Electronics,1190.13,278EQE12,239
+941,Coca-Cola Moisturizing Lotion,Coca-Cola,Health & Beauty,35.06,KC2MNG80,45
+942,Nike Wireless Headphones,Nike,Electronics,578.94,SYG91MMO,222
+943,"Kelloggs Laptop 15""",Kelloggs,Electronics,397.3,GW10C9IX,254
+944,Hasbro Moisturizing Lotion,Hasbro,Health & Beauty,19.5,N6BGUAXN,174
+945,Samsung Bath Towel Set,Samsung,Home & Kitchen,261.36,D4VUEER9,175
+946,"Loreal 55"" 4K Smart TV",Loreal,Electronics,1200.6,WITPBD7X,71
+947,Maybelline Fashion Doll,Maybelline,Toys,99.94,K499NR0O,14
+948,Sony Women's Slim Jeans,Sony,Clothing,145.24,57V4NDJM,64
+949,IKEA 12-Pack Soda,IKEA,Grocery,12.06,CBL116CZ,296
+950,Adidas 1000-Piece Puzzle,Adidas,Toys,91.57,XDO7L5DL,27
+951,Great Value Whole Milk 1 Gallon,Great Value,Grocery,19.03,VDRQNTJV,288
+952,Great Value Sliced Bread 20oz,Great Value,Grocery,4.2,XU5WAHZG,261
+953,Procter & Gamble Whole Milk 1 Gallon,Procter & Gamble,Grocery,13.95,5U04RIPW,199
+954,Kelloggs Sliced Bread 20oz,Kelloggs,Grocery,7.54,OV6KI4EP,255
+955,"Coca-Cola Laptop 15""",Coca-Cola,Electronics,927.03,0YU3U8IZ,119
+956,Apple Whole Milk 1 Gallon,Apple,Grocery,14.0,EH8UXZ3A,55
+957,Levis Running Shoes,Levis,Clothing,37.43,025LOXYP,104
+958,Hanes Classic Board Game,Hanes,Toys,45.03,GX8IRJBA,238
+959,Apple Whole Milk 1 Gallon,Apple,Grocery,15.22,SHDKKG1R,272
+960,"IKEA Laptop 15""",IKEA,Electronics,586.98,XQYJROFH,69
+961,"KitchenAid Laptop 15""",KitchenAid,Electronics,638.41,9TXFJNJD,265
+962,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,21.96,8D6JI874,295
+963,Nike Moisturizing Lotion,Nike,Health & Beauty,48.99,A8LYTUAG,56
+964,Mattel Fashion Doll,Mattel,Toys,32.61,2VWY8UMN,101
+965,Sony Whole Milk 1 Gallon,Sony,Grocery,17.3,M1TRPUYD,71
+966,Procter & Gamble Whole Milk 1 Gallon,Procter & Gamble,Grocery,4.89,O9CY9PE0,112
+967,Coca-Cola Men's Crew Socks 10-Pack,Coca-Cola,Clothing,58.73,7O9X66D7,61
+968,Maybelline Wireless Headphones,Maybelline,Electronics,161.84,YTXZA43H,211
+969,Coca-Cola Men's Crew Socks 10-Pack,Coca-Cola,Clothing,105.7,IUAZ71UF,50
+970,IKEA Action Figure Set,IKEA,Toys,70.06,G3IBG3HK,32
+971,Hasbro Classic Board Game,Hasbro,Toys,65.68,B00N114P,33
+972,LG Cereal Box 18oz,LG,Grocery,1.14,NTY6D1HF,56
+973,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,94.52,STY87679,232
+974,Loreal 12-Pack Soda,Loreal,Grocery,19.12,PV2KJH01,11
+975,Old Navy Sliced Bread 20oz,Old Navy,Grocery,8.13,T75EZ6IZ,58
+976,LG Moisturizing Lotion,LG,Health & Beauty,45.92,U0ESTIE6,261
+977,Adidas Daily Shampoo 12oz,Adidas,Health & Beauty,15.87,TMTJLEGP,106
+978,KitchenAid Whole Milk 1 Gallon,KitchenAid,Grocery,10.84,WCZT0LFJ,173
+979,"Apple 55"" 4K Smart TV",Apple,Electronics,1192.07,1Y50DF0W,42
+980,"Levis Laptop 15""",Levis,Electronics,1434.32,D2TN20VZ,181
+981,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,160.99,SKKFTFYT,148
+982,Kelloggs 12-Speed Blender,Kelloggs,Home & Kitchen,62.16,3KWBNBPA,26
+983,Maybelline Wireless Headphones,Maybelline,Electronics,629.05,WD0JFNEO,138
+984,KitchenAid Fluoride Toothpaste,KitchenAid,Health & Beauty,21.63,BLGU0TBQ,209
+985,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,12.44,WQM91284,270
+986,Hanes Whole Milk 1 Gallon,Hanes,Grocery,2.15,275JT660,134
+987,Maybelline Classic Board Game,Maybelline,Toys,59.27,R5IGZGXO,125
+988,Great Value 12-Pack Soda,Great Value,Grocery,14.24,WKGUY0OF,125
+989,Hanes Bath Towel Set,Hanes,Home & Kitchen,222.23,4PD8JQBO,200
+990,Pepsi Sliced Bread 20oz,Pepsi,Grocery,15.4,5BOIYMYK,12
+991,Great Value Fashion Doll,Great Value,Toys,43.95,OKKU3S71,56
+992,KitchenAid Women's Slim Jeans,KitchenAid,Clothing,167.78,J0EVZYMK,30
+993,KitchenAid Women's Slim Jeans,KitchenAid,Clothing,184.13,H1M3JLZO,114
+994,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,2.8,VSZ2TVHV,102
+995,Levis Non-Stick Cookware Set,Levis,Home & Kitchen,133.4,LI54087W,259
+996,Sony Upright Vacuum,Sony,Home & Kitchen,46.69,842ZSA6H,14
+997,"IKEA 55"" 4K Smart TV",IKEA,Electronics,568.42,OT4SAYMW,255
+998,Mattel Men's Crew Socks 10-Pack,Mattel,Clothing,192.47,675YOVM5,40
+999,Loreal Men's Crew Socks 10-Pack,Loreal,Clothing,163.62,5XUDKITM,14
+1000,Hanes Moisturizing Lotion,Hanes,Health & Beauty,13.76,3FHVFIJM,40
+1001,"Maybelline 55"" 4K Smart TV",Maybelline,Electronics,1073.58,4KSO03W2,173
+1002,LG Cereal Box 18oz,LG,Grocery,9.14,80SD0P47,99
+1003,Kelloggs Wireless Headphones,Kelloggs,Electronics,605.85,OV31NYC7,109
+1004,Nike Wireless Headphones,Nike,Electronics,455.64,MBPTPDWR,288
+1005,Hanes Classic Board Game,Hanes,Toys,98.55,3K8EKT29,100
+1006,Mattel Women's Slim Jeans,Mattel,Clothing,100.61,YT6EBIN0,28
+1007,"Pepsi Laptop 15""",Pepsi,Electronics,1067.55,A3S9UCKU,9
+1008,Hasbro 1000-Piece Puzzle,Hasbro,Toys,62.46,F1ZWW1UN,152
+1009,Loreal Moisturizing Lotion,Loreal,Health & Beauty,9.03,SF2UWUFU,151
+1010,Kelloggs Smartphone 128GB,Kelloggs,Electronics,897.27,2486D43I,73
+1011,Old Navy 12-Speed Blender,Old Navy,Home & Kitchen,134.19,Z9ROE19B,227
+1012,Levis Sliced Bread 20oz,Levis,Grocery,11.67,9IVLX6X6,267
+1013,Adidas Whole Milk 1 Gallon,Adidas,Grocery,16.88,93685EFZ,223
+1014,Samsung Women's Slim Jeans,Samsung,Clothing,87.18,1TFXDTUM,38
+1015,Samsung Cereal Box 18oz,Samsung,Grocery,16.37,D3513LM7,62
+1016,Levis Cotton T-Shirt,Levis,Clothing,85.75,FV14J643,85
+1017,KitchenAid 12-Speed Blender,KitchenAid,Home & Kitchen,21.82,4PO5CB41,258
+1018,Great Value Whole Milk 1 Gallon,Great Value,Grocery,13.7,3M84BCTW,143
+1019,"Mattel 55"" 4K Smart TV",Mattel,Electronics,1300.97,LQ15S58X,74
+1020,Pepsi Wireless Headphones,Pepsi,Electronics,992.5,J6PVOC75,207
+1021,Hanes Non-Stick Cookware Set,Hanes,Home & Kitchen,116.47,TD503779,290
+1022,Loreal Action Figure Set,Loreal,Toys,79.22,JOSTCHHI,68
+1023,Pepsi Women's Slim Jeans,Pepsi,Clothing,48.5,6OQ7QH96,53
+1024,Loreal Wireless Headphones,Loreal,Electronics,100.65,E1ISYERU,177
+1025,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,81.11,CYKJB85L,73
+1026,Mattel 12-Speed Blender,Mattel,Home & Kitchen,292.46,DJ9IHJDQ,56
+1027,Hasbro Cereal Box 18oz,Hasbro,Grocery,13.68,GGAFDR3T,94
+1028,Levis Smartphone 128GB,Levis,Electronics,827.19,9GT0R0VI,219
+1029,Adidas 12-Pack Soda,Adidas,Grocery,17.66,4GYLBI18,12
+1030,IKEA Upright Vacuum,IKEA,Home & Kitchen,132.78,7ERC4R6S,76
+1031,"Pepsi 55"" 4K Smart TV",Pepsi,Electronics,626.56,FXGIMYDO,188
+1032,"Sony Laptop 15""",Sony,Electronics,1411.88,YOFCX7CU,168
+1033,Old Navy Moisturizing Lotion,Old Navy,Health & Beauty,38.97,8UTYIWT2,9
+1034,Hanes Whole Milk 1 Gallon,Hanes,Grocery,17.17,28YI4PZZ,129
+1035,Mattel Matte Lipstick,Mattel,Health & Beauty,18.42,V4VTCDMW,260
+1036,Apple Upright Vacuum,Apple,Home & Kitchen,45.67,7ITQRT8G,232
+1037,Old Navy Men's Crew Socks 10-Pack,Old Navy,Clothing,193.07,CW9RTNFW,224
+1038,LG Matte Lipstick,LG,Health & Beauty,42.67,ESH9BXLS,205
+1039,Nike Classic Board Game,Nike,Toys,43.18,Z5X51O0L,234
+1040,Apple Daily Shampoo 12oz,Apple,Health & Beauty,35.29,G6G04JGS,236
+1041,Old Navy Matte Lipstick,Old Navy,Health & Beauty,11.32,3WGI8Y04,201
+1042,Levis Whole Milk 1 Gallon,Levis,Grocery,7.46,FCYLTM9R,176
+1043,Nike Non-Stick Cookware Set,Nike,Home & Kitchen,133.02,V5IT2NI9,259
+1044,"Adidas Laptop 15""",Adidas,Electronics,616.92,AXS88UAL,250
+1045,Mattel 1000-Piece Puzzle,Mattel,Toys,30.18,GWEYSU7E,247
+1046,LG Matte Lipstick,LG,Health & Beauty,7.11,SZUJB4HL,167
+1047,Hasbro Men's Crew Socks 10-Pack,Hasbro,Clothing,72.09,LD0N53R4,269
+1048,"KitchenAid Laptop 15""",KitchenAid,Electronics,726.26,LAW8F52K,45
+1049,Pepsi Wireless Headphones,Pepsi,Electronics,739.29,W8EVRC0E,245
+1050,Maybelline Smartphone 128GB,Maybelline,Electronics,281.69,4S4MFEL3,220
+1051,Apple Bath Towel Set,Apple,Home & Kitchen,261.93,VO1TK5EZ,262
+1052,Maybelline Cotton T-Shirt,Maybelline,Clothing,149.25,PN524KSK,61
+1053,Procter & Gamble Smartphone 128GB,Procter & Gamble,Electronics,135.55,7ABFLXV5,38
+1054,Hanes Whole Milk 1 Gallon,Hanes,Grocery,16.19,5CAMBHWT,94
+1055,Coca-Cola 1000-Piece Puzzle,Coca-Cola,Toys,37.29,4SNV9RR4,114
+1056,Hasbro Upright Vacuum,Hasbro,Home & Kitchen,221.42,KO0E49Z7,148
+1057,Great Value 12-Pack Soda,Great Value,Grocery,16.3,GT30GCHF,4
+1058,Mattel Action Figure Set,Mattel,Toys,15.31,05SORHTM,273
+1059,LG Cereal Box 18oz,LG,Grocery,10.85,DQ26RL0N,137
+1060,Hanes Upright Vacuum,Hanes,Home & Kitchen,63.33,UBFD340N,284
+1061,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,2.01,5Z8XGQHP,112
+1062,IKEA Matte Lipstick,IKEA,Health & Beauty,48.05,7LGUUW05,52
+1063,Procter & Gamble 1000-Piece Puzzle,Procter & Gamble,Toys,69.15,VXITIFXZ,126
+1064,Adidas Matte Lipstick,Adidas,Health & Beauty,19.41,7JE0Q0RF,202
+1065,KitchenAid Men's Crew Socks 10-Pack,KitchenAid,Clothing,118.5,JJ31W0GQ,299
+1066,Samsung Non-Stick Cookware Set,Samsung,Home & Kitchen,179.89,PFLYV16Z,110
+1067,Sony Non-Stick Cookware Set,Sony,Home & Kitchen,182.28,U6IF31D2,204
+1068,Apple Classic Board Game,Apple,Toys,25.59,5JTV75SS,292
+1069,Pepsi Non-Stick Cookware Set,Pepsi,Home & Kitchen,214.13,Z5YMIT72,21
+1070,Samsung Sliced Bread 20oz,Samsung,Grocery,19.58,INCU2LQM,84
+1071,IKEA Whole Milk 1 Gallon,IKEA,Grocery,1.43,FU20VMAK,245
+1072,Kelloggs Women's Slim Jeans,Kelloggs,Clothing,20.77,36U9CYRV,59
+1073,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,13.03,0EF578O1,72
+1074,"Coca-Cola 55"" 4K Smart TV",Coca-Cola,Electronics,262.31,ND6BWBEM,271
+1075,KitchenAid Non-Stick Cookware Set,KitchenAid,Home & Kitchen,279.14,0HKGNHAG,155
+1076,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,39.4,KDK2YWFM,5
+1077,Sony Matte Lipstick,Sony,Health & Beauty,11.76,KE4VZN8Z,34
+1078,Samsung Classic Board Game,Samsung,Toys,74.41,UM2V31IQ,73
+1079,Levis Running Shoes,Levis,Clothing,187.68,TTN1E4JC,80
+1080,"Hanes Laptop 15""",Hanes,Electronics,1402.26,PNFIRCVC,44
+1081,Procter & Gamble 12-Speed Blender,Procter & Gamble,Home & Kitchen,135.46,E4T8DL8F,4
+1082,Mattel Whole Milk 1 Gallon,Mattel,Grocery,5.74,EW6OR6XN,158
+1083,Great Value Fluoride Toothpaste,Great Value,Health & Beauty,24.93,Y9NPGIRD,129
+1084,Procter & Gamble 12-Speed Blender,Procter & Gamble,Home & Kitchen,50.96,T12SBA62,284
+1085,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,8.57,1DFSTS3Y,230
+1086,"Hanes 55"" 4K Smart TV",Hanes,Electronics,1315.81,DMCDSODB,118
+1087,Great Value Men's Crew Socks 10-Pack,Great Value,Clothing,164.47,K88RHOEH,9
+1088,Procter & Gamble Matte Lipstick,Procter & Gamble,Health & Beauty,20.7,4YQZVRHU,171
+1089,Levis Cereal Box 18oz,Levis,Grocery,3.98,37746PFM,33
+1090,KitchenAid Matte Lipstick,KitchenAid,Health & Beauty,36.48,RB9OPLLV,35
+1091,"Apple Laptop 15""",Apple,Electronics,923.92,XEJAXVT7,35
+1092,IKEA 1000-Piece Puzzle,IKEA,Toys,61.68,LYZLGJVB,153
+1093,Loreal Fashion Doll,Loreal,Toys,93.63,OV9WXHVY,213
+1094,Loreal Bath Towel Set,Loreal,Home & Kitchen,48.58,68FR8RUI,90
+1095,Procter & Gamble Women's Slim Jeans,Procter & Gamble,Clothing,50.08,YSVKUEV3,35
+1096,Maybelline Classic Board Game,Maybelline,Toys,89.51,48FHBQ64,55
+1097,"Procter & Gamble 55"" 4K Smart TV",Procter & Gamble,Electronics,1277.44,XXWXJ46T,43
+1098,Pepsi Cereal Box 18oz,Pepsi,Grocery,18.12,6DQA4SVK,261
+1099,"Great Value Laptop 15""",Great Value,Electronics,1351.83,KE1Q5MS7,293
+1100,Kelloggs Bath Towel Set,Kelloggs,Home & Kitchen,142.55,AG3JBRRD,93
+1101,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,6.69,O1Y7SR3J,85
+1102,Procter & Gamble Matte Lipstick,Procter & Gamble,Health & Beauty,25.85,1U97RWJV,118
+1103,Coca-Cola 1000-Piece Puzzle,Coca-Cola,Toys,91.42,DUEPRTIR,284
+1104,KitchenAid Fluoride Toothpaste,KitchenAid,Health & Beauty,37.53,M2Q22YOK,24
+1105,Procter & Gamble Fluoride Toothpaste,Procter & Gamble,Health & Beauty,42.58,NTZ7PJSF,228
+1106,Hanes Smartphone 128GB,Hanes,Electronics,243.09,F9M13OTE,258
+1107,KitchenAid Fluoride Toothpaste,KitchenAid,Health & Beauty,29.06,TSW5EJR9,270
+1108,Loreal 12-Speed Blender,Loreal,Home & Kitchen,138.98,WCKH3V10,184
+1109,Loreal Classic Board Game,Loreal,Toys,99.87,5ZDHZ6M9,23
+1110,Sony Men's Crew Socks 10-Pack,Sony,Clothing,86.12,2Z6M81RJ,50
+1111,Sony 12-Speed Blender,Sony,Home & Kitchen,264.45,ZJ2O4Q06,34
+1112,Hanes Fluoride Toothpaste,Hanes,Health & Beauty,31.75,UTBT6AO3,75
+1113,"Maybelline 55"" 4K Smart TV",Maybelline,Electronics,719.99,O4DILGON,136
+1114,Procter & Gamble Matte Lipstick,Procter & Gamble,Health & Beauty,36.45,UZTLSUY5,168
+1115,IKEA Cotton T-Shirt,IKEA,Clothing,195.99,2BEEVG42,185
+1116,Old Navy Whole Milk 1 Gallon,Old Navy,Grocery,7.67,CCYC3T13,107
+1117,Sony Non-Stick Cookware Set,Sony,Home & Kitchen,135.02,ZESJNCRB,294
+1118,Hanes Cotton T-Shirt,Hanes,Clothing,110.77,UGKNN520,286
+1119,Procter & Gamble Moisturizing Lotion,Procter & Gamble,Health & Beauty,27.39,B2JA2LPN,227
+1120,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,118.53,2LLH22BE,190
+1121,Old Navy Running Shoes,Old Navy,Clothing,158.82,4GPZBOMV,118
+1122,"Samsung Laptop 15""",Samsung,Electronics,324.37,GGK82P5Y,243
+1123,Old Navy Women's Slim Jeans,Old Navy,Clothing,155.12,WODGZDN9,258
+1124,Adidas Running Shoes,Adidas,Clothing,198.74,A6TDV9RR,287
+1125,Levis Whole Milk 1 Gallon,Levis,Grocery,4.28,V7P2A2Q9,210
+1126,Nike Running Shoes,Nike,Clothing,24.47,07BTI1RI,178
+1127,IKEA Fashion Doll,IKEA,Toys,87.98,TQM3G98G,66
+1128,Adidas Wireless Headphones,Adidas,Electronics,804.85,5N18BYPK,189
+1129,Hasbro Cotton T-Shirt,Hasbro,Clothing,150.56,54CFG79K,276
+1130,LG Daily Shampoo 12oz,LG,Health & Beauty,25.28,6OHXXYFG,99
+1131,Adidas Moisturizing Lotion,Adidas,Health & Beauty,35.83,36MAT2C2,127
+1132,Maybelline Smartphone 128GB,Maybelline,Electronics,1100.66,GN99LT3J,118
+1133,KitchenAid Cotton T-Shirt,KitchenAid,Clothing,12.24,4520SZOR,147
+1134,Great Value Moisturizing Lotion,Great Value,Health & Beauty,20.54,GJ78JP3H,274
+1135,Great Value Running Shoes,Great Value,Clothing,124.53,HZTAY12Y,124
+1136,Loreal Action Figure Set,Loreal,Toys,23.24,QSX502UP,271
+1137,Hanes Daily Shampoo 12oz,Hanes,Health & Beauty,18.77,9RZ4D4YJ,120
+1138,"Great Value Laptop 15""",Great Value,Electronics,1094.66,GEHUIQSI,53
+1139,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,1.57,7F5HG57Z,286
+1140,Nike 12-Pack Soda,Nike,Grocery,3.3,3AI6AYNP,59
+1141,"Samsung Laptop 15""",Samsung,Electronics,1100.81,ET3GNDC0,284
+1142,Sony Women's Slim Jeans,Sony,Clothing,131.82,DSBRP14X,100
+1143,Mattel Running Shoes,Mattel,Clothing,174.61,V32BH1A4,207
+1144,Samsung Sliced Bread 20oz,Samsung,Grocery,16.53,KL0N4L6B,222
+1145,Old Navy Fashion Doll,Old Navy,Toys,34.18,C6ON5ZZ6,116
+1146,Samsung Running Shoes,Samsung,Clothing,112.91,DW7V1QSA,288
+1147,Procter & Gamble Cereal Box 18oz,Procter & Gamble,Grocery,11.42,KFTUWFV2,271
+1148,Adidas Cereal Box 18oz,Adidas,Grocery,11.6,SWETYX2C,16
+1149,IKEA Running Shoes,IKEA,Clothing,44.32,QCQNYIAD,221
+1150,Pepsi Fashion Doll,Pepsi,Toys,86.43,WU3GA9TA,293
+1151,Hanes Men's Crew Socks 10-Pack,Hanes,Clothing,158.95,NS8ERKD0,250
+1152,Old Navy Women's Slim Jeans,Old Navy,Clothing,158.97,DY4TKVV7,224
+1153,Nike Women's Slim Jeans,Nike,Clothing,36.77,7MVQ356J,188
+1154,Hanes Men's Crew Socks 10-Pack,Hanes,Clothing,166.43,MKR4L2E4,73
+1155,Pepsi Cereal Box 18oz,Pepsi,Grocery,16.78,ZA0CO76O,28
+1156,Nike Non-Stick Cookware Set,Nike,Home & Kitchen,251.64,K59S7V55,144
+1157,"Apple 55"" 4K Smart TV",Apple,Electronics,779.66,X6SFJQD9,38
+1158,Adidas Bath Towel Set,Adidas,Home & Kitchen,21.75,C27X1CEN,1
+1159,Nike Moisturizing Lotion,Nike,Health & Beauty,44.87,D3DGC50I,226
+1160,IKEA Wireless Headphones,IKEA,Electronics,379.45,BCPLA8JZ,45
+1161,IKEA Fluoride Toothpaste,IKEA,Health & Beauty,30.28,LK3FUQVU,212
+1162,Hanes Cotton T-Shirt,Hanes,Clothing,63.02,QE4DWZ79,104
+1163,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,50.51,11BLF1XO,94
+1164,Hasbro Smartphone 128GB,Hasbro,Electronics,398.67,52MJ13M7,216
+1165,Apple Moisturizing Lotion,Apple,Health & Beauty,43.79,9P0QVHZJ,154
+1166,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,29.62,8LI72W4O,71
+1167,Apple Fluoride Toothpaste,Apple,Health & Beauty,20.03,QPJBMWMN,204
+1168,Levis 12-Pack Soda,Levis,Grocery,14.85,AB76LBWL,15
+1169,Loreal Action Figure Set,Loreal,Toys,90.05,DDD27D9A,169
+1170,Hasbro Running Shoes,Hasbro,Clothing,20.26,ZGAZNI37,43
+1171,Nike Action Figure Set,Nike,Toys,90.37,YG626M8A,214
+1172,Apple Action Figure Set,Apple,Toys,38.76,M576M2YV,226
+1173,Loreal 1000-Piece Puzzle,Loreal,Toys,12.88,K8R1Z4QT,182
+1174,IKEA 1000-Piece Puzzle,IKEA,Toys,67.95,6X3B9KYH,156
+1175,Samsung Classic Board Game,Samsung,Toys,72.1,UAM75PSZ,146
+1176,Great Value Smartphone 128GB,Great Value,Electronics,977.61,689MW68M,125
+1177,IKEA Cotton T-Shirt,IKEA,Clothing,37.84,NCC8UUXO,220
+1178,Apple Daily Shampoo 12oz,Apple,Health & Beauty,29.6,ZRBZIRJY,112
+1179,Levis 1000-Piece Puzzle,Levis,Toys,37.61,Z95AOQ14,172
+1180,Samsung Women's Slim Jeans,Samsung,Clothing,40.53,MAR9LEOK,236
+1181,Maybelline Matte Lipstick,Maybelline,Health & Beauty,31.2,WXU2HHLD,8
+1182,Apple Action Figure Set,Apple,Toys,67.88,64BIW8UO,130
+1183,Samsung 12-Pack Soda,Samsung,Grocery,17.84,ENP2WA6M,234
+1184,IKEA Running Shoes,IKEA,Clothing,71.42,UGG01LOI,124
+1185,Nike 12-Speed Blender,Nike,Home & Kitchen,267.73,FNSCQQAV,1
+1186,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,244.32,4I1AGZGX,88
+1187,"Pepsi 55"" 4K Smart TV",Pepsi,Electronics,831.16,60YUP1SH,191
+1188,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,148.76,5UQ9GYNS,26
+1189,KitchenAid Running Shoes,KitchenAid,Clothing,111.65,3VHTN7SU,89
+1190,Maybelline Fluoride Toothpaste,Maybelline,Health & Beauty,48.27,LBDSG1FB,283
+1191,Loreal Sliced Bread 20oz,Loreal,Grocery,11.2,W4IXFJJR,143
+1192,Levis Classic Board Game,Levis,Toys,93.21,40C98UZZ,65
+1193,Samsung Classic Board Game,Samsung,Toys,13.25,HB7ZHEZR,66
+1194,Coca-Cola Classic Board Game,Coca-Cola,Toys,43.56,G61SP5OO,2
+1195,Apple 1000-Piece Puzzle,Apple,Toys,74.37,V7PQOVVI,37
+1196,Samsung Classic Board Game,Samsung,Toys,99.16,DY39CK5B,82
+1197,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,10.37,2J403CNF,291
+1198,"Levis 55"" 4K Smart TV",Levis,Electronics,687.72,ACO58P8O,21
+1199,KitchenAid Upright Vacuum,KitchenAid,Home & Kitchen,280.36,DSONKK1J,19
+1200,Procter & Gamble Upright Vacuum,Procter & Gamble,Home & Kitchen,294.32,YVGIPAXN,233
+1201,Hanes 12-Pack Soda,Hanes,Grocery,8.32,P4D8J2X7,176
+1202,Adidas 1000-Piece Puzzle,Adidas,Toys,33.99,FY4W8TR9,51
+1203,Loreal Fashion Doll,Loreal,Toys,23.28,IL3DVYJH,174
+1204,Hanes Sliced Bread 20oz,Hanes,Grocery,19.0,9GNCTIJH,18
+1205,KitchenAid Action Figure Set,KitchenAid,Toys,17.08,44TONZNQ,200
+1206,IKEA 1000-Piece Puzzle,IKEA,Toys,54.94,2OZZ9Z76,172
+1207,Pepsi 12-Pack Soda,Pepsi,Grocery,9.3,U9JN01N3,221
+1208,Maybelline 12-Pack Soda,Maybelline,Grocery,2.5,MNT6U777,157
+1209,Great Value Fluoride Toothpaste,Great Value,Health & Beauty,13.34,OF2NNKQE,123
+1210,Hasbro Smartphone 128GB,Hasbro,Electronics,291.39,NZ9JN7K9,136
+1211,Adidas Classic Board Game,Adidas,Toys,32.3,673KLLZC,291
+1212,KitchenAid Upright Vacuum,KitchenAid,Home & Kitchen,83.28,8YATYE73,86
+1213,Coca-Cola Whole Milk 1 Gallon,Coca-Cola,Grocery,8.0,TD7KFN8K,91
+1214,Kelloggs Upright Vacuum,Kelloggs,Home & Kitchen,92.73,4XYBRXFX,13
+1215,Kelloggs Fashion Doll,Kelloggs,Toys,81.7,53IQQUOL,97
+1216,Hasbro Whole Milk 1 Gallon,Hasbro,Grocery,3.12,6XB1Z337,33
+1217,Pepsi Smartphone 128GB,Pepsi,Electronics,1008.71,XBAF4GEL,164
+1218,Levis 12-Speed Blender,Levis,Home & Kitchen,139.12,VIU21HO3,45
+1219,Nike 12-Speed Blender,Nike,Home & Kitchen,75.57,HWMF1GZV,96
+1220,LG Matte Lipstick,LG,Health & Beauty,20.48,Z8M6XHIG,227
+1221,Loreal 12-Pack Soda,Loreal,Grocery,17.98,VGK4Y32H,182
+1222,Hanes 12-Pack Soda,Hanes,Grocery,9.04,DMBO6TQS,200
+1223,LG Daily Shampoo 12oz,LG,Health & Beauty,39.4,33HBAEOM,284
+1224,Adidas 12-Pack Soda,Adidas,Grocery,14.42,8R2W71TJ,207
+1225,Levis Bath Towel Set,Levis,Home & Kitchen,143.93,JF9899FF,261
+1226,Coca-Cola Smartphone 128GB,Coca-Cola,Electronics,455.26,FUY0F39W,95
+1227,Pepsi Cereal Box 18oz,Pepsi,Grocery,2.09,G59MNBO3,246
+1228,Great Value Whole Milk 1 Gallon,Great Value,Grocery,11.1,JYRDIRL4,157
+1229,Adidas Smartphone 128GB,Adidas,Electronics,307.9,5C1GXSKO,293
+1230,LG 1000-Piece Puzzle,LG,Toys,44.75,LJRNJCGW,35
+1231,Great Value Running Shoes,Great Value,Clothing,195.7,JC1YLJUY,296
+1232,Old Navy Classic Board Game,Old Navy,Toys,63.18,QR2C23AG,82
+1233,Samsung Action Figure Set,Samsung,Toys,66.05,XD0DL7U1,221
+1234,Old Navy Moisturizing Lotion,Old Navy,Health & Beauty,28.94,XOUSHFRR,41
+1235,Nike Matte Lipstick,Nike,Health & Beauty,24.7,O1QMUTWX,216
+1236,KitchenAid Women's Slim Jeans,KitchenAid,Clothing,188.73,Y6ZLED1L,97
+1237,Kelloggs Smartphone 128GB,Kelloggs,Electronics,354.36,EBEC41RN,145
+1238,Hasbro Fluoride Toothpaste,Hasbro,Health & Beauty,26.6,ZAPUOLXP,206
+1239,IKEA Running Shoes,IKEA,Clothing,122.69,75D3NMYB,170
+1240,"Samsung Laptop 15""",Samsung,Electronics,441.97,LHHVNJPG,238
+1241,Great Value 12-Speed Blender,Great Value,Home & Kitchen,267.16,UMUNLBNQ,5
+1242,Pepsi Sliced Bread 20oz,Pepsi,Grocery,3.09,TQYPICLK,269
+1243,Adidas Fluoride Toothpaste,Adidas,Health & Beauty,32.53,MKXI9157,150
+1244,KitchenAid 1000-Piece Puzzle,KitchenAid,Toys,73.81,22KEUVIV,133
+1245,IKEA Running Shoes,IKEA,Clothing,64.17,UJOA14ZG,115
+1246,IKEA Smartphone 128GB,IKEA,Electronics,800.71,E00HU3X5,299
+1247,Coca-Cola Women's Slim Jeans,Coca-Cola,Clothing,39.96,891QCG41,246
+1248,Mattel Cotton T-Shirt,Mattel,Clothing,46.62,W2NRV4EI,22
+1249,Maybelline Running Shoes,Maybelline,Clothing,171.17,NC0IBA65,55
+1250,Coca-Cola 12-Pack Soda,Coca-Cola,Grocery,14.94,Q45TVGUW,242
+1251,"Adidas Laptop 15""",Adidas,Electronics,1459.19,CUHCZTGZ,204
+1252,KitchenAid 12-Speed Blender,KitchenAid,Home & Kitchen,40.29,7TBH6GO7,70
+1253,KitchenAid Wireless Headphones,KitchenAid,Electronics,534.04,KJHDKXZO,203
+1254,Samsung Daily Shampoo 12oz,Samsung,Health & Beauty,29.85,68LZF4NU,26
+1255,Great Value Cereal Box 18oz,Great Value,Grocery,9.32,KQGBHLFT,188
+1256,Nike Wireless Headphones,Nike,Electronics,1241.09,VKOG1011,102
+1257,Hanes 12-Pack Soda,Hanes,Grocery,12.85,IEEO9H5I,113
+1258,Maybelline Cereal Box 18oz,Maybelline,Grocery,9.9,CYYPQ7A4,73
+1259,Loreal Bath Towel Set,Loreal,Home & Kitchen,230.25,L6CKNC7G,119
+1260,IKEA 1000-Piece Puzzle,IKEA,Toys,83.45,GBJ72BTQ,298
+1261,Samsung Action Figure Set,Samsung,Toys,50.88,FF2K5C3Z,133
+1262,Adidas Fashion Doll,Adidas,Toys,75.67,83RWR3OW,94
+1263,Apple Running Shoes,Apple,Clothing,78.35,TT7FYWM5,33
+1264,Hanes Sliced Bread 20oz,Hanes,Grocery,12.38,2VYN1KJS,76
+1265,LG 12-Pack Soda,LG,Grocery,12.92,Q1CGEDBT,263
+1266,KitchenAid Smartphone 128GB,KitchenAid,Electronics,1475.53,T30B69C4,249
+1267,Apple Women's Slim Jeans,Apple,Clothing,123.67,MVWJMV06,57
+1268,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,69.14,680IUGA4,77
+1269,Coca-Cola Cereal Box 18oz,Coca-Cola,Grocery,4.35,YYJ5N860,1
+1270,Adidas Classic Board Game,Adidas,Toys,28.21,KK54K4RV,170
+1271,"Maybelline Laptop 15""",Maybelline,Electronics,129.13,F4WNSMW5,98
+1272,Hasbro Fashion Doll,Hasbro,Toys,33.16,ZGPXF50O,138
+1273,Hasbro Cereal Box 18oz,Hasbro,Grocery,10.01,2FMFP5MD,69
+1274,Pepsi Wireless Headphones,Pepsi,Electronics,311.27,KC781HFL,298
+1275,KitchenAid Upright Vacuum,KitchenAid,Home & Kitchen,88.42,Y3XGWK1G,221
+1276,Great Value Bath Towel Set,Great Value,Home & Kitchen,205.71,WAYMH0IT,21
+1277,Maybelline Wireless Headphones,Maybelline,Electronics,1086.12,F3D4D32N,152
+1278,Coca-Cola Fluoride Toothpaste,Coca-Cola,Health & Beauty,29.22,5TT9KA1D,168
+1279,Adidas Men's Crew Socks 10-Pack,Adidas,Clothing,84.0,914YBNUS,255
+1280,Kelloggs Upright Vacuum,Kelloggs,Home & Kitchen,88.47,LL0NO8OL,61
+1281,Procter & Gamble Matte Lipstick,Procter & Gamble,Health & Beauty,14.8,XEF73GGA,33
+1282,Mattel Wireless Headphones,Mattel,Electronics,956.43,T2E077U5,58
+1283,"LG Laptop 15""",LG,Electronics,314.79,1VVWUSXS,102
+1284,"Adidas 55"" 4K Smart TV",Adidas,Electronics,179.82,5PAYGAA7,83
+1285,Sony Matte Lipstick,Sony,Health & Beauty,29.48,GDLB3J56,282
+1286,Samsung 1000-Piece Puzzle,Samsung,Toys,59.78,FP3G21CQ,274
+1287,Procter & Gamble Classic Board Game,Procter & Gamble,Toys,84.04,174GU65S,198
+1288,Levis Classic Board Game,Levis,Toys,83.31,O0SW5861,207
+1289,Old Navy Cereal Box 18oz,Old Navy,Grocery,2.99,PK1ACFSF,116
+1290,Loreal Classic Board Game,Loreal,Toys,18.92,TS8MG00C,245
+1291,Samsung Running Shoes,Samsung,Clothing,191.01,RNXPWNUA,276
+1292,Coca-Cola Fluoride Toothpaste,Coca-Cola,Health & Beauty,16.13,CEV8E7ZM,215
+1293,Adidas Matte Lipstick,Adidas,Health & Beauty,29.35,KXGY93FO,189
+1294,Old Navy Fashion Doll,Old Navy,Toys,78.73,WM3EQLSU,84
+1295,Sony Women's Slim Jeans,Sony,Clothing,124.45,YWAPKE5A,138
+1296,LG Classic Board Game,LG,Toys,78.83,OV9CPWRU,284
+1297,Hasbro Fluoride Toothpaste,Hasbro,Health & Beauty,35.87,RUY4KJ8G,259
+1298,Coca-Cola Running Shoes,Coca-Cola,Clothing,97.79,KQ7MOU3D,195
+1299,IKEA Men's Crew Socks 10-Pack,IKEA,Clothing,60.39,L2FX35LG,17
+1300,Old Navy 12-Pack Soda,Old Navy,Grocery,19.26,BOT6ATJ4,184
+1301,Coca-Cola Matte Lipstick,Coca-Cola,Health & Beauty,5.02,5UGXBRYT,122
+1302,Loreal Moisturizing Lotion,Loreal,Health & Beauty,16.79,49TO5A7Q,190
+1303,"Apple 55"" 4K Smart TV",Apple,Electronics,398.0,YZ1OV5VX,9
+1304,Old Navy Cotton T-Shirt,Old Navy,Clothing,28.45,JU39X6KQ,27
+1305,LG Daily Shampoo 12oz,LG,Health & Beauty,34.41,TF52BWHN,63
+1306,KitchenAid Smartphone 128GB,KitchenAid,Electronics,1386.51,K8EVBRX8,287
+1307,Pepsi Non-Stick Cookware Set,Pepsi,Home & Kitchen,104.25,BF2E6WPR,162
+1308,Nike Non-Stick Cookware Set,Nike,Home & Kitchen,282.9,GVLHWXPB,256
+1309,LG Running Shoes,LG,Clothing,67.68,K2NIPG43,274
+1310,Sony Whole Milk 1 Gallon,Sony,Grocery,10.29,CELMDZ5V,2
+1311,KitchenAid Fashion Doll,KitchenAid,Toys,21.5,GD572I2F,238
+1312,Nike Upright Vacuum,Nike,Home & Kitchen,236.27,TTIMLYTG,300
+1313,Mattel Classic Board Game,Mattel,Toys,71.31,MZLO9LND,35
+1314,"Sony 55"" 4K Smart TV",Sony,Electronics,840.73,WNVJQJIN,110
+1315,Hanes Cotton T-Shirt,Hanes,Clothing,93.29,T00E2QMK,293
+1316,Levis Bath Towel Set,Levis,Home & Kitchen,101.03,6HMRTIEH,43
+1317,Levis Wireless Headphones,Levis,Electronics,1255.7,SVG7SS63,286
+1318,Pepsi Wireless Headphones,Pepsi,Electronics,771.89,RA3PLCGQ,157
+1319,Sony Non-Stick Cookware Set,Sony,Home & Kitchen,279.44,0R3SDUDP,245
+1320,Mattel Sliced Bread 20oz,Mattel,Grocery,17.52,R0PNF3VC,159
+1321,Levis Cereal Box 18oz,Levis,Grocery,3.59,VJN2J6BV,300
+1322,"Apple 55"" 4K Smart TV",Apple,Electronics,167.51,VMIA63YM,49
+1323,Great Value Fashion Doll,Great Value,Toys,69.72,KKXO0SSW,235
+1324,Pepsi Moisturizing Lotion,Pepsi,Health & Beauty,12.68,6N1RWU1E,266
+1325,Coca-Cola Action Figure Set,Coca-Cola,Toys,26.12,C0QTXXWC,71
+1326,Kelloggs Women's Slim Jeans,Kelloggs,Clothing,131.47,6QCALUK8,169
+1327,Maybelline Wireless Headphones,Maybelline,Electronics,695.64,1F99DGHB,271
+1328,Sony Moisturizing Lotion,Sony,Health & Beauty,43.2,ECI9RTJ6,296
+1329,Samsung Wireless Headphones,Samsung,Electronics,1266.75,QUNF57VH,192
+1330,"Sony 55"" 4K Smart TV",Sony,Electronics,1156.36,Q01YHYA0,63
+1331,KitchenAid Daily Shampoo 12oz,KitchenAid,Health & Beauty,5.47,8T49LXLE,219
+1332,"IKEA 55"" 4K Smart TV",IKEA,Electronics,1066.12,LTDSEKCE,109
+1333,Hasbro Classic Board Game,Hasbro,Toys,46.04,672TH1FP,112
+1334,Pepsi Fashion Doll,Pepsi,Toys,61.15,HIWZWT99,221
+1335,Pepsi Smartphone 128GB,Pepsi,Electronics,730.51,IX43IRGM,60
+1336,Old Navy Smartphone 128GB,Old Navy,Electronics,444.54,8WX46QGB,82
+1337,Loreal Moisturizing Lotion,Loreal,Health & Beauty,49.85,XOMIGC3J,212
+1338,"Apple 55"" 4K Smart TV",Apple,Electronics,972.83,Z8L6M5WK,136
+1339,"Pepsi 55"" 4K Smart TV",Pepsi,Electronics,152.46,YTE9AFPP,261
+1340,Maybelline Smartphone 128GB,Maybelline,Electronics,1047.01,QTUV27UU,23
+1341,LG Upright Vacuum,LG,Home & Kitchen,92.84,174WYAGS,143
+1342,Kelloggs Moisturizing Lotion,Kelloggs,Health & Beauty,39.44,51M4I3L0,233
+1343,LG Whole Milk 1 Gallon,LG,Grocery,9.62,5A838921,139
+1344,Apple Classic Board Game,Apple,Toys,37.46,HSSCRTP0,263
+1345,KitchenAid 12-Pack Soda,KitchenAid,Grocery,8.69,1Q3DZVWE,179
+1346,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,19.42,GEEJGBJX,88
+1347,Great Value Whole Milk 1 Gallon,Great Value,Grocery,14.76,MQA1CCYY,140
+1348,IKEA Wireless Headphones,IKEA,Electronics,323.39,N24XCRWD,74
+1349,Maybelline Cereal Box 18oz,Maybelline,Grocery,1.54,0UFOJ7OG,192
+1350,LG Smartphone 128GB,LG,Electronics,1210.83,GA3YYGDT,27
+1351,Levis Smartphone 128GB,Levis,Electronics,635.6,PYHRFOZG,78
+1352,Apple Smartphone 128GB,Apple,Electronics,1191.21,I6OEUH8V,6
+1353,Hasbro Running Shoes,Hasbro,Clothing,124.93,BDIM28AQ,237
+1354,"Levis 55"" 4K Smart TV",Levis,Electronics,1016.09,GDH3U0RC,200
+1355,Hanes Non-Stick Cookware Set,Hanes,Home & Kitchen,53.59,2J5ZKOER,292
+1356,Adidas Whole Milk 1 Gallon,Adidas,Grocery,10.01,AJIB931K,68
+1357,Pepsi 12-Pack Soda,Pepsi,Grocery,2.76,OFG6JC86,9
+1358,Maybelline Fluoride Toothpaste,Maybelline,Health & Beauty,38.39,Q45NAYPW,162
+1359,KitchenAid Wireless Headphones,KitchenAid,Electronics,758.45,CQ3ZA8E8,184
+1360,Adidas Fluoride Toothpaste,Adidas,Health & Beauty,10.04,BDUD8T7D,221
+1361,Old Navy Fluoride Toothpaste,Old Navy,Health & Beauty,37.96,25JU26SP,110
+1362,Old Navy 12-Speed Blender,Old Navy,Home & Kitchen,274.2,SJQA0PX9,290
+1363,"IKEA 55"" 4K Smart TV",IKEA,Electronics,786.97,WUDKBU0T,104
+1364,Loreal Non-Stick Cookware Set,Loreal,Home & Kitchen,253.41,29KJPQ8S,61
+1365,IKEA Cereal Box 18oz,IKEA,Grocery,7.05,PF4G9H0Y,76
+1366,Pepsi Smartphone 128GB,Pepsi,Electronics,102.09,HHCASIKZ,207
+1367,KitchenAid 12-Speed Blender,KitchenAid,Home & Kitchen,191.41,AS1UDJOA,297
+1368,Old Navy Wireless Headphones,Old Navy,Electronics,1248.56,ER70UT10,23
+1369,Samsung Bath Towel Set,Samsung,Home & Kitchen,104.06,9875TRJI,26
+1370,Loreal Smartphone 128GB,Loreal,Electronics,1058.02,IED48CD5,163
+1371,Loreal Smartphone 128GB,Loreal,Electronics,1072.02,LFU2FAW2,7
+1372,Pepsi Wireless Headphones,Pepsi,Electronics,553.52,IOBL7VJU,140
+1373,Procter & Gamble Upright Vacuum,Procter & Gamble,Home & Kitchen,61.52,BCE5Z3ZT,47
+1374,Kelloggs Classic Board Game,Kelloggs,Toys,92.86,XSV18F6F,272
+1375,Kelloggs Men's Crew Socks 10-Pack,Kelloggs,Clothing,104.41,Y6Q2M8OF,114
+1376,Hasbro Men's Crew Socks 10-Pack,Hasbro,Clothing,11.6,DW9UFZDE,215
+1377,Nike Smartphone 128GB,Nike,Electronics,584.33,AX6EBQGB,219
+1378,Samsung 12-Speed Blender,Samsung,Home & Kitchen,43.87,USQB00G9,66
+1379,Procter & Gamble Daily Shampoo 12oz,Procter & Gamble,Health & Beauty,20.79,EXJTNRP1,115
+1380,Maybelline 1000-Piece Puzzle,Maybelline,Toys,44.37,B5X69PHW,197
+1381,"Coca-Cola 55"" 4K Smart TV",Coca-Cola,Electronics,566.05,AR0WH0RF,121
+1382,Adidas Running Shoes,Adidas,Clothing,25.78,9TFLDY3Y,94
+1383,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,162.63,4ZNMZOFE,40
+1384,Hasbro Moisturizing Lotion,Hasbro,Health & Beauty,43.35,P4JWR3XU,107
+1385,Samsung Men's Crew Socks 10-Pack,Samsung,Clothing,88.43,73KU99EL,140
+1386,Mattel Whole Milk 1 Gallon,Mattel,Grocery,6.84,P0NFDD2P,130
+1387,Pepsi Matte Lipstick,Pepsi,Health & Beauty,21.06,UG8XJK31,52
+1388,Loreal Fashion Doll,Loreal,Toys,79.67,TCFI4PLM,148
+1389,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,37.58,TJ2T9O5A,51
+1390,Apple Wireless Headphones,Apple,Electronics,227.55,3NH0C0IB,206
+1391,"Mattel Laptop 15""",Mattel,Electronics,105.87,8RD05N9H,32
+1392,Levis Action Figure Set,Levis,Toys,63.52,TVV8C3BA,153
+1393,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,49.94,Y0VQXO2D,199
+1394,Pepsi Whole Milk 1 Gallon,Pepsi,Grocery,14.71,JUK9QS57,62
+1395,"Levis Laptop 15""",Levis,Electronics,577.02,MFERFT5P,2
+1396,Hanes Upright Vacuum,Hanes,Home & Kitchen,187.65,CIEOPTS2,241
+1397,Hanes 12-Pack Soda,Hanes,Grocery,13.86,5V9JREHM,117
+1398,"Hasbro Laptop 15""",Hasbro,Electronics,883.52,D6GKA0T2,239
+1399,Apple Daily Shampoo 12oz,Apple,Health & Beauty,12.64,J5G1HOG8,63
+1400,IKEA 12-Speed Blender,IKEA,Home & Kitchen,241.02,NYNMQOQO,227
+1401,Pepsi Action Figure Set,Pepsi,Toys,49.32,YI46N05F,165
+1402,"Coca-Cola Laptop 15""",Coca-Cola,Electronics,1352.51,3NA7HN98,268
+1403,Nike Cotton T-Shirt,Nike,Clothing,171.22,ZZW5UK4S,113
+1404,Samsung Smartphone 128GB,Samsung,Electronics,1378.02,0V33LIFN,37
+1405,LG Bath Towel Set,LG,Home & Kitchen,233.82,Z9ZO2I5W,169
+1406,Mattel Whole Milk 1 Gallon,Mattel,Grocery,2.78,L35JRJ9R,300
+1407,Coca-Cola Bath Towel Set,Coca-Cola,Home & Kitchen,152.29,TL15E166,169
+1408,Hanes Wireless Headphones,Hanes,Electronics,929.19,1RDNF4X1,237
+1409,KitchenAid Cereal Box 18oz,KitchenAid,Grocery,1.36,KK14NK1Q,19
+1410,Great Value Running Shoes,Great Value,Clothing,29.33,QCSENJXT,118
+1411,Apple Non-Stick Cookware Set,Apple,Home & Kitchen,47.36,L9T15KCK,167
+1412,Hasbro Classic Board Game,Hasbro,Toys,44.5,FGJ1YOFQ,285
+1413,Mattel Daily Shampoo 12oz,Mattel,Health & Beauty,25.19,PEQ6YF84,106
+1414,Levis Running Shoes,Levis,Clothing,100.42,YME6PSRB,16
+1415,Kelloggs Running Shoes,Kelloggs,Clothing,122.35,ICMNIA2Y,75
+1416,Levis Upright Vacuum,Levis,Home & Kitchen,227.82,8L4PJAGX,165
+1417,Hasbro 12-Speed Blender,Hasbro,Home & Kitchen,226.29,S5RMJPCZ,15
+1418,Kelloggs Sliced Bread 20oz,Kelloggs,Grocery,3.8,GHO4QHCG,76
+1419,Coca-Cola 12-Speed Blender,Coca-Cola,Home & Kitchen,233.24,43XRV8DF,151
+1420,Loreal Sliced Bread 20oz,Loreal,Grocery,3.17,JTUIN748,5
+1421,IKEA 12-Pack Soda,IKEA,Grocery,4.56,60992A96,95
+1422,Old Navy 1000-Piece Puzzle,Old Navy,Toys,54.59,CPACQ5AH,42
+1423,Levis Upright Vacuum,Levis,Home & Kitchen,268.39,BMABUHOQ,130
+1424,Old Navy Women's Slim Jeans,Old Navy,Clothing,172.03,5PU2PITT,289
+1425,Old Navy Smartphone 128GB,Old Navy,Electronics,464.15,FM03TDV0,116
+1426,Hasbro 12-Pack Soda,Hasbro,Grocery,19.83,RTD6ENMB,289
+1427,Apple Non-Stick Cookware Set,Apple,Home & Kitchen,252.52,ZQX3QFXM,106
+1428,LG Fluoride Toothpaste,LG,Health & Beauty,33.05,WNQA4P3P,254
+1429,Procter & Gamble Men's Crew Socks 10-Pack,Procter & Gamble,Clothing,42.23,TX7U4GBG,40
+1430,Mattel Women's Slim Jeans,Mattel,Clothing,127.74,KT6VGF8I,89
+1431,Nike Wireless Headphones,Nike,Electronics,600.53,B362M9E5,116
+1432,Mattel Cotton T-Shirt,Mattel,Clothing,161.28,YB4U33K2,100
+1433,Levis 12-Pack Soda,Levis,Grocery,6.6,I7VE3AU0,119
+1434,Hanes Smartphone 128GB,Hanes,Electronics,1153.72,D5C21O6W,69
+1435,Coca-Cola Wireless Headphones,Coca-Cola,Electronics,439.82,RHRLNF6N,138
+1436,Great Value Classic Board Game,Great Value,Toys,91.15,M9DEOCIR,119
+1437,Old Navy Classic Board Game,Old Navy,Toys,94.97,4JLYS7JD,73
+1438,Samsung Fashion Doll,Samsung,Toys,20.84,3IAVX56L,71
+1439,Apple Women's Slim Jeans,Apple,Clothing,41.58,DMILADH1,52
+1440,Coca-Cola Fluoride Toothpaste,Coca-Cola,Health & Beauty,15.7,4SP7QFQ9,192
+1441,Maybelline Classic Board Game,Maybelline,Toys,23.8,DTZJ2L72,93
+1442,Samsung 1000-Piece Puzzle,Samsung,Toys,79.45,RBRNU851,286
+1443,Pepsi 12-Speed Blender,Pepsi,Home & Kitchen,120.23,WCMZX8J5,171
+1444,Kelloggs 1000-Piece Puzzle,Kelloggs,Toys,76.17,T3T9LP2E,89
+1445,Kelloggs Smartphone 128GB,Kelloggs,Electronics,657.06,EVGKH250,42
+1446,Old Navy Matte Lipstick,Old Navy,Health & Beauty,30.0,G5ADG0XW,87
+1447,Hasbro Women's Slim Jeans,Hasbro,Clothing,114.97,G15XD82I,141
+1448,Mattel Wireless Headphones,Mattel,Electronics,931.63,2VXO3PEO,135
+1449,Apple Cotton T-Shirt,Apple,Clothing,91.76,GRKBZWB1,295
+1450,KitchenAid Sliced Bread 20oz,KitchenAid,Grocery,15.5,TGF4D8H4,24
+1451,Samsung Non-Stick Cookware Set,Samsung,Home & Kitchen,149.19,XLKDYP4R,224
+1452,Old Navy Sliced Bread 20oz,Old Navy,Grocery,5.15,S7AUIGJD,218
+1453,Hanes Classic Board Game,Hanes,Toys,70.6,H5HOA7WK,48
+1454,Mattel Non-Stick Cookware Set,Mattel,Home & Kitchen,282.83,ZOJ3E0QQ,199
+1455,Pepsi Moisturizing Lotion,Pepsi,Health & Beauty,47.8,61PY2VG9,143
+1456,Great Value Upright Vacuum,Great Value,Home & Kitchen,111.78,MSP94RWG,154
+1457,Nike Action Figure Set,Nike,Toys,89.4,KHL1CRHM,172
+1458,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,11.88,Q1AMKT0N,71
+1459,Adidas 12-Speed Blender,Adidas,Home & Kitchen,98.64,QHPZCA8V,117
+1460,Sony Fluoride Toothpaste,Sony,Health & Beauty,26.68,7GOKLVA2,298
+1461,LG Whole Milk 1 Gallon,LG,Grocery,5.98,PK4W0KQ8,268
+1462,Maybelline Women's Slim Jeans,Maybelline,Clothing,96.84,ONTQX45J,213
+1463,Hanes Upright Vacuum,Hanes,Home & Kitchen,231.41,O762NKYS,265
+1464,Loreal Action Figure Set,Loreal,Toys,94.45,FRZUD1LB,233
+1465,Adidas Fashion Doll,Adidas,Toys,11.84,9N1PMBZP,218
+1466,Kelloggs Matte Lipstick,Kelloggs,Health & Beauty,14.51,OXXAOZ5E,70
+1467,Nike Cereal Box 18oz,Nike,Grocery,8.8,46X1W1QX,221
+1468,Levis Cotton T-Shirt,Levis,Clothing,138.49,3BQHOK3Z,258
+1469,Old Navy 12-Speed Blender,Old Navy,Home & Kitchen,227.73,L9LAYKE3,234
+1470,"Maybelline Laptop 15""",Maybelline,Electronics,1170.99,1TO0BOGC,36
+1471,Nike 12-Speed Blender,Nike,Home & Kitchen,152.88,7UG44C93,82
+1472,Coca-Cola Non-Stick Cookware Set,Coca-Cola,Home & Kitchen,137.23,L5H2QQ6A,217
+1473,Loreal Cotton T-Shirt,Loreal,Clothing,42.61,VFHZT8I5,122
+1474,Mattel Men's Crew Socks 10-Pack,Mattel,Clothing,31.46,MU9Q9VCM,276
+1475,Levis 12-Speed Blender,Levis,Home & Kitchen,123.0,9T8JUS1X,126
+1476,"Hanes 55"" 4K Smart TV",Hanes,Electronics,752.27,TOS7NNXX,59
+1477,Kelloggs Men's Crew Socks 10-Pack,Kelloggs,Clothing,29.56,XJ17X6XD,1
+1478,Hasbro Whole Milk 1 Gallon,Hasbro,Grocery,3.17,BVFWB5HS,277
+1479,"Kelloggs 55"" 4K Smart TV",Kelloggs,Electronics,735.97,OTVOG5KK,270
+1480,Samsung Men's Crew Socks 10-Pack,Samsung,Clothing,96.95,SX88GXWD,215
+1481,Samsung Moisturizing Lotion,Samsung,Health & Beauty,47.17,YZ5ND2OE,286
+1482,Kelloggs Wireless Headphones,Kelloggs,Electronics,1276.94,IEC1G7H6,136
+1483,Maybelline Women's Slim Jeans,Maybelline,Clothing,71.95,VWGJ9Y56,42
+1484,Samsung Sliced Bread 20oz,Samsung,Grocery,16.4,7FF5HVV7,80
+1485,Hasbro Sliced Bread 20oz,Hasbro,Grocery,5.72,G6UO3ZIN,230
+1486,Hanes Smartphone 128GB,Hanes,Electronics,439.2,L46LMI1J,41
+1487,Adidas Fashion Doll,Adidas,Toys,81.08,2KAIOZ46,280
+1488,Coca-Cola Sliced Bread 20oz,Coca-Cola,Grocery,17.61,U9IN7OFH,66
+1489,Procter & Gamble Whole Milk 1 Gallon,Procter & Gamble,Grocery,8.24,3VWTKCNL,249
+1490,Nike Classic Board Game,Nike,Toys,77.36,8GSG8UEN,204
+1491,"Hasbro Laptop 15""",Hasbro,Electronics,347.69,6N968XF6,281
+1492,Levis Sliced Bread 20oz,Levis,Grocery,15.28,05OSZQG6,223
+1493,"Mattel 55"" 4K Smart TV",Mattel,Electronics,445.88,SB8363DH,271
+1494,Levis Action Figure Set,Levis,Toys,23.93,EAACKXXQ,205
+1495,Loreal Whole Milk 1 Gallon,Loreal,Grocery,19.18,KXIBK7CK,9
+1496,Kelloggs Cereal Box 18oz,Kelloggs,Grocery,7.11,64QBWPLY,153
+1497,Hanes Sliced Bread 20oz,Hanes,Grocery,18.26,L8XCGMIU,249
+1498,Procter & Gamble 12-Speed Blender,Procter & Gamble,Home & Kitchen,194.27,J6O6U917,18
+1499,Pepsi Fashion Doll,Pepsi,Toys,58.06,5DXI7QOD,270
+1500,IKEA Bath Towel Set,IKEA,Home & Kitchen,293.89,F16X14AI,158
